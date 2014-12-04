@@ -1,0 +1,878 @@
+﻿110,Office,11,Papeterie,1034,Agendas,null,null,353.15,null,null,null,null,2047.9,null,null,null,null
+110,Office,11,Papeterie,1119,Schulmaterial,-89.9,null,703.25,2451.85,-1800.35,-445,-168.85,2396.95,null,null,null,null
+110,Office,11,Papeterie,1123,Schulmappen/-Saecke/Etuis,228.95,-845.55,-122.55,-2992.75,-306.35,-295.85,-421.4,109.65,null,null,null,null
+110,Office,11,Papeterie,1128,Schreibpapier,-290.55,null,-439.4,138.2,null,-154.2,102.05,92.1,null,null,null,null
+110,Office,11,Papeterie,1129,Schreibutensilien,-698.65,-384.2,327.85,1557.15,-1374.1,-155.9,2076.4,-375.8,null,null,null,null
+110,Office,11,Papeterie,1156,Bueroartikel,2187,1776.35,475.4,1488,-392.55,-470.45,2330.1,407.95,null,null,null,null
+110,Office,11,Papeterie,1187,Markenschreibgeraete,-160.45,null,null,173.7,null,136.55,null,154.8,null,null,null,null
+110,Office,11,Papeterie,1188,Buero-/Computer-Accessoires,null,null,null,null,null,453.2,-1893.3,898.4,null,null,null,null
+111,Papeterie Saisonal,11,Papeterie,1157,Saisonale Kalender/Agendas,null,null,null,null,null,null,120,4614.85,null,null,null,null
+111,Papeterie Saisonal,11,Papeterie,1168,Weihnachten Papeterie,-306,null,null,null,null,null,null,-169,null,null,null,null
+111,Papeterie Saisonal,11,Papeterie,1455,Schulanfang,-160.8,null,920.5,5633.3,4567.05,-19794.85,-6958.85,-7909.25,null,null,null,null
+111,Papeterie Saisonal,11,Papeterie,1456,Bueroverkauf,-308,null,null,null,null,null,null,null,null,null,null,null
+111,Papeterie Saisonal,11,Papeterie,1457,Promos/Themen/Aktionen Papeterie,10384,5575.4,517.05,2158.2,-5553.35,3266.4,1933.7,4118.9,null,null,null,null
+112,Papershop/Kreativ/Bild,11,Papeterie,1011,Gesch.Papier/Servietten/Party,-265.95,602.8,977.6,-5213.1,-4804.55,573.35,159.25,-658.85,null,null,null,null
+112,Papershop/Kreativ/Bild,11,Papeterie,1090,Farb-Malstifte - Kreativ,null,480.65,560.35,null,-120.45,-140.65,539,-1322.9,null,null,null,null
+112,Papershop/Kreativ/Bild,11,Papeterie,1135,Fotoalben,null,492.25,null,null,195.95,null,null,null,null,null,null,null
+112,Papershop/Kreativ/Bild,11,Papeterie,1136,Rahmen,-194.1,807.55,996.65,null,1030.7,-1779.95,null,803.05,null,null,null,null
+112,Papershop/Kreativ/Bild,11,Papeterie,1175,Kuenstlerfarben,574.55,-113.35,101.65,null,null,null,null,null,null,null,null,null
+113,Karten/Gadgets,11,Papeterie,2455,Souvenir,362.05,-173.85,885.1,32.65,null,2494.1,514.5,2814.8,null,null,null,null
+113,Karten/Gadgets,11,Papeterie,3160,Gadgets Papeterie,null,-116.4,633.35,null,118.4,181.7,null,-326.05,null,null,null,null
+120,Depot Marken,12,Parfumerie,1219,Clinique,null,null,682.25,6450.2,341.35,1047,955.6,530.15,null,null,null,null
+120,Depot Marken,12,Parfumerie,1252,Aramis/Hilfiger,192,null,null,null,null,1788.3,2276,442.45,null,null,null,null
+120,Depot Marken,12,Parfumerie,1297,Dior,172.7,null,null,-2851.45,104.85,438.8,null,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1298,Puig,18837.6,336,479.8,1395,488.65,6497.7,453.4,557.7,null,null,null,null
+120,Depot Marken,12,Parfumerie,1299,YSL,412.75,2484.7,151.85,510.45,564.75,1858.25,-781.05,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1300,P & G Prestige,-1101.7,-795.6,2650.65,138.2,672.45,1496.2,-261.9,2767.8,null,null,null,null
+120,Depot Marken,12,Parfumerie,1301,Bergerat,null,null,276.6,null,null,null,null,-203.85,null,null,null,null
+120,Depot Marken,12,Parfumerie,1302,Coty Lifestyle,158.3,null,271.35,null,141.5,null,201.9,1736.05,null,null,null,null
+120,Depot Marken,12,Parfumerie,1303,Calvin Klein,822.15,359.05,1770.7,856.75,926.7,1024,338.15,307.6,null,null,null,null
+120,Depot Marken,12,Parfumerie,1304,P & G Lifestyle,-690,-130.1,null,227.15,-548.55,null,-18708.6,131.6,null,null,null,null
+120,Depot Marken,12,Parfumerie,1305,Mugler/Hermes/Azzaro,528,-165.5,null,-577.4,null,368.15,-143.7,939.4,null,null,null,null
+120,Depot Marken,12,Parfumerie,1307,Arden,null,134.35,null,103.35,null,102.85,null,199.75,null,null,null,null
+120,Depot Marken,12,Parfumerie,1309,Lancome,429.25,6126.45,12872.85,12043.65,1168.4,4179.85,-3885,103.05,null,null,null,null
+120,Depot Marken,12,Parfumerie,1317,Rubinstein,null,161.3,null,null,null,218.55,null,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1318,Armani,482.05,301.35,-1667.7,-1853.15,310.45,2442.95,222.65,103.8,null,null,null,null
+120,Depot Marken,12,Parfumerie,1320,Kenzo,null,185.75,149.15,null,177.65,148.45,null,210.25,null,null,null,null
+120,Depot Marken,12,Parfumerie,1322,Clarins,-255.9,3073.5,555.05,-2690.2,176.65,488.1,182.05,624.35,null,null,null,null
+120,Depot Marken,12,Parfumerie,1323,Biotherm/Guy Laroche,165.8,238.45,null,454.65,333.6,406.55,264.45,2378.3,null,null,null,null
+120,Depot Marken,12,Parfumerie,1324,Cacharel,null,106.35,null,null,102.2,null,null,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1325,Parfum divers,null,null,null,-244.3,null,-983.75,null,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1334,Deurocos Fine Fragrances,null,596.45,null,184.65,null,132.25,null,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1336,Bulgari,null,null,-1510.55,-3778.4,-368.4,-2355.9,null,322.65,null,null,null,null
+120,Depot Marken,12,Parfumerie,1337,Coty Prestige,2572.7,4113.3,4274.1,783.9,243.3,933.6,578.65,1082.05,null,null,null,null
+120,Depot Marken,12,Parfumerie,1338,Parfums de Luxe,2456.7,139.4,212.35,null,null,1487.05,null,null,null,null,null,null
+120,Depot Marken,12,Parfumerie,1339,Guerlain,-2206.45,-2301.55,-3075.45,-2814.15,-1140.4,-2904.9,-2368.9,-1791.15,null,null,null,null
+120,Depot Marken,12,Parfumerie,1342,MAC,499.6,912.6,-1862.2,279.55,134.65,2844.55,null,351.5,null,null,null,null
+120,Depot Marken,12,Parfumerie,1346,Tanner,566.65,null,196.15,256.7,266.25,222.3,149.1,289.5,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1270,Mundhygiene / Zahnpflege,487.15,3652.3,null,3719.45,2893.4,4598.75,1992.8,908.3,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1272,Deo / Colognes,-408.9,366,null,-411.6,-660.15,null,null,-569,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1279,Colorationen,-296.35,-527.2,null,null,804.85,-8847.75,-1074.9,-365.45,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1281,Bad / Dusch / Seifen,154.8,-661.7,984.35,7454.8,3949.45,-1090.15,1937.1,1778.8,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1285,Styling,-112.5,null,1134.65,113.95,549.5,-3403.8,-1033.85,null,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1286,Shampoo/Spuelung/Kur,-943.05,-822.35,8345.85,1296.25,-7184.15,-5255.15,null,270.3,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1287,Herrenrasur,-2075,-1898.9,null,863,3558.65,null,-220.3,115.35,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1288,Damenhygiene,-514.5,-678.8,-533.3,-185.75,null,-4769.35,456.85,-196.3,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1289,Mens Care,-718.25,-2750.55,null,7250.55,3245.95,787,-342.75,222.75,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1290,Epilation,-462.65,-476.35,172.65,159.4,-8643,987.95,-642.2,-233.7,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1291,Hand-und Fusspflege,-851.7,440.1,null,-299.4,-876.6,149.2,304.45,691.75,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1292,Bodylotions/Allzw.pflege,null,null,-108.55,-603.05,940.25,219.7,220.8,284.9,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1293,Gesichts u. Lippenpflege,-2203.05,-9916.7,null,null,213.5,173.75,-477.25,-2791.35,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1294,Sonne,null,null,null,156.05,2220.2,-4374.5,-6058.45,null,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1295,Baby / Kinderpflege,null,-221.7,null,550.9,178.1,143.5,329.4,377.55,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1350,Papier / Selfcare,-1227,375.55,1027.95,1806.55,null,4391.7,803.75,2422.2,null,null,null,null
+121,Konsumkosmetik,12,Parfumerie,1353,Professionelle Haarpflege,123.5,-2271.85,599.05,2136.7,-5655.15,1314.85,-7621.85,4476.65,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1352,Massage,null,430.5,null,1673.6,null,183.05,null,116.4,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1356,Haar Accessoires Basic,null,null,null,null,null,117.7,null,263.7,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1362,Haarbuersten/Kaemme,700.2,null,null,115.2,158.25,885.9,-131.65,-172.8,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1364,Necessaires/Beauty-Case,561.2,637.45,696.85,1826.25,517.35,937.9,284.5,1120.75,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1370,Manicure / Pedicure,null,null,null,109.95,-118.65,-425.9,-151.25,215,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1372,Pinsel/Make-up Accessoires,159.75,null,null,-136.15,157.25,null,379.8,141.15,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1373,Spiegel/Vapos,-203.3,925.65,702.8,144.8,467.8,-62.15,118.65,183.2,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1390,Trend Corner,null,3539.75,-2019.25,null,-5214,null,null,null,null,null,null,null
+122,Toilettenartikel,12,Parfumerie,1391,Promotionen / Themen,3278.55,2122.65,-262.8,1455.3,null,263.6,null,237.6,null,null,null,null
+123,Dekorativkosmetik,12,Parfumerie,1282,Alessandro / La Ric,null,null,null,null,null,null,-628,null,null,null,null,null
+123,Dekorativkosmetik,12,Parfumerie,1284,Promotion/Themen,null,758.8,311.4,926.45,1157.75,null,null,106.8,null,null,null,null
+123,Dekorativkosmetik,12,Parfumerie,1326,Ikos Make-up,6915.05,315.85,575.45,592.75,null,595.9,null,136.5,null,null,null,null
+123,Dekorativkosmetik,12,Parfumerie,1328,NYX,-2590.5,null,-11546.75,-589.25,-739.85,-51492.4,-440.1,591.3,null,null,null,null
+123,Dekorativkosmetik,12,Parfumerie,1329,Make-up Set,164.5,339.9,403.5,111.45,1529.7,4329.35,221.8,814,null,null,null,null
+123,Dekorativkosmetik,12,Parfumerie,1395,Essence / Catrice Make-up,null,691.9,null,null,null,null,103.9,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1371,Kontaktlinsenpflegemittel,null,null,null,null,null,null,null,-304.35,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1600,Schoenheit,null,-290.45,1080.5,null,714.2,333.25,null,525.75,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1603,Gesundheit,null,null,214.1,null,null,null,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1605,Para Insekten und Sonnenschutz,null,null,null,null,null,null,276.45,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1611,Para Koerperpflege,null,null,-800.7,-678.2,-290.4,1993.05,null,-572,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1612,Weleda,103.95,468.4,123.2,209.25,265.9,173.35,180.2,119.1,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1613,Biokosma,null,null,825.6,null,-100.8,null,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1615,Para Fusspflege,null,null,1044.9,244.2,null,null,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1625,Nahrungsergaenzung 2.5% MWst,null,null,179.9,420.25,104.15,122.3,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1626,Wellness Sanovit,162.35,101.3,108.45,215.6,155.65,420.55,-291.45,113,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1627,Klorane,null,null,null,null,null,null,null,5904.65,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1629,Para Pflaster und Verbandsstoffe,null,null,null,183,645.6,-4143.4,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1630,Para Hand und Lippenpflege,null,null,-338.75,null,null,null,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1631,Mustela,null,null,null,null,null,309.05,null,null,null,null,null,null
+125,Parapharmacie,12,Parfumerie,1632,Kibio,null,null,null,null,null,null,null,107.9,null,null,null,null
+129,Spezialkategorien Parfumerie,12,Parfumerie,1360,Parfums Offenverkauf a,110,null,null,null,null,null,null,null,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1085,Maddison Halsketten,-197.5,1980.35,329.25,481.55,null,null,458.2,742.4,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1091,Maddison Ohrringe,1486.45,509.4,844.5,877.05,-153,1169,868.15,-612.75,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1092,Maddison Armbaender,1235.35,3661.7,124.05,388.6,-346.8,null,null,598.6,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1095,Inside Haarschmuck Bijouterie,-129.75,null,-506.7,null,-374.05,null,null,null,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1131,Piercing,null,null,null,132,-537.6,-130.8,null,125.1,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1247,B&C Ketten und Armbaender,null,377.4,null,null,null,null,null,null,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1365,Trend Halskette,532.85,951.15,1017.6,1478.7,141.45,560.1,1105.85,1239.4,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1366,Trend Ohrringe,339.75,139.5,300.6,1850.8,-413.9,254.5,249.8,1209.5,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1367,Trend Armbaender,403.85,350,146.15,1317.25,280.85,188.3,404.05,651.6,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,1368,Trend Divers,null,null,null,111.6,-312.15,null,null,689.3,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2406,Ketten Yes or No,null,null,null,347.65,-274.9,-336.3,572.75,879,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2407,Ohrringe Yes or No,638.2,289.1,null,null,-355.95,-473,120.95,330.8,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2408,Armbaender Yes or No,197.55,null,-214.3,127.8,-108,-205.7,155.65,null,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2409,Divers Yes or No Bijouterie,134.35,null,null,null,null,null,null,292.85,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2414,Maddison Divers,311.85,275.9,null,null,-274.2,null,null,167.55,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2479,Modeschmuck Herren,152.5,null,null,434.4,null,null,110.2,671.2,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2483,AP Bracelets,null,null,null,null,null,-281.75,1782.1,1072.6,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2485,Inside Bijouterie,-114.05,null,-129.75,157.55,null,null,259.5,null,null,null,null,null
+131,Modeschmuck,13,Bijouterie/Uhren,2498,B&C Beads a,126,351.6,null,null,null,null,null,null,null,null,null,null
+132,Uhren,13,Bijouterie/Uhren,1044,Casio,843.1,null,null,821.15,-127.25,-140.15,-192.2,null,null,null,null,null
+132,Uhren,13,Bijouterie/Uhren,2415,Yes or No Uhren,636,1041.05,-1080,-369.35,null,null,450,-2628.05,null,null,null,null
+132,Uhren,13,Bijouterie/Uhren,2416,Festina,2758.95,null,-3390.9,-824.55,-2125.15,-4468.75,-321.15,null,null,null,null,null
+132,Uhren,13,Bijouterie/Uhren,2420,Wecker/Grossuhren,238.8,null,-3578.4,-8474,-513,159.9,128,null,null,null,null,null
+132,Uhren,13,Bijouterie/Uhren,2440,Essentiel Uhren,-2547.95,null,-581.9,null,null,-415,null,null,null,null,null,null
+132,Uhren,13,Bijouterie/Uhren,2486,Uhrenboxen,161.25,null,null,null,null,null,null,null,null,null,null,null
+134,Marken Modeschmuck,13,Bijouterie/Uhren,3203,Diverse Marken Modeschmuck,null,null,null,null,null,null,null,339.15,null,null,null,null
+135,Silberschmuck,13,Bijouterie/Uhren,1107,Avant Premiere Vintage,null,null,-169.2,null,-327.4,null,215.95,-366.05,null,null,null,null
+135,Silberschmuck,13,Bijouterie/Uhren,2399,Avant Premiere Self Service,null,null,null,null,null,null,148.5,null,null,null,null,null
+135,Silberschmuck,13,Bijouterie/Uhren,2404,Avant Premiere Glamour,-3189.95,1504.65,-369.85,-3126.15,-1888.3,-481.5,null,null,null,null,null,null
+135,Silberschmuck,13,Bijouterie/Uhren,2447,Avant Premiere Trend,120,-535.4,null,null,142.6,2077.35,-884.45,null,null,null,null,null
+135,Silberschmuck,13,Bijouterie/Uhren,2474,Avant Premiere Pearls,null,null,null,102.45,null,479.35,null,null,null,null,null,null
+135,Silberschmuck,13,Bijouterie/Uhren,2598,Avant Premiere Color,null,null,null,801.4,null,145.35,202.95,null,null,null,null,null
+133,Sonnenbrillen,15,Accessoires Mode,2418,AP Sonnenbrillen,null,null,252.45,602.05,589.15,1595.35,null,null,null,null,null,null
+133,Sonnenbrillen,15,Accessoires Mode,2422,Maddison Leselupen,315,null,null,null,null,1081.75,null,null,null,null,null,null
+133,Sonnenbrillen,15,Accessoires Mode,2424,Andere Marken Sonnenbrillen,null,null,null,null,210.7,null,null,null,null,null,null,null
+133,Sonnenbrillen,15,Accessoires Mode,2426,Yes or No Sonnenbrillen,null,609.8,274.45,830.6,269.95,330.15,null,null,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2600,Kleinlederwaren Eigenmarken Maroquinerie,-4451.5,-305.05,162.6,1357.6,429.95,14871.8,2188.2,null,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2630,Lederwaren Maddison Maroquinerie,-14611.9,null,650.9,null,-460.8,115.5,825.3,229.15,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2632,Gadgets Accessoires Mode,-187.05,null,238.25,302.85,-2707.45,-186,313.15,921.3,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2633,JJB Maroquinerie,172.75,524.15,263.3,902.5,-320.65,null,-183.75,null,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2642,Maroquinerie Synthetik Maddison,622.85,4091.7,-1084.65,3095.15,14994,4141.75,4723.9,null,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2648,Ledertaschen AP Maroquinerie,null,-2247.1,null,null,null,null,null,-2901.6,null,null,null,null
+150,Lederwaren Eigenmarken,15,Accessoires Mode,2649,Taschen synthetisch AP Maroquinerie,-193.25,344.5,320.8,1641.3,482,529.6,1837.95,894.6,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2603,Esprit/EDC Lederwaren,null,null,null,null,null,null,null,375.85,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2604,Lacoste Lederwaren,620.35,null,null,168.5,null,null,182.55,null,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2607,Fossil Lederwaren,null,-1110.35,-1664.2,null,-102.3,-248,null,398.45,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2631,Marken Leder Maroquinerie,473.3,-1537.65,761,null,-294.45,null,-532.45,-588.3,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2641,Marken Synthetik Maroquinerie,null,-208.05,1597.6,1719.65,null,1798.35,null,2254.95,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2647,Guess Lederwaren,-767.65,1354.55,1279.55,null,null,null,null,-226.85,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2656,Benetton Maroquinerie,null,null,2773.25,null,null,841.65,135.05,null,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2657,Tom Taylor Maroquinerie,1137.4,642.8,2619.25,570.4,4291.25,5092.5,814.65,575.25,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2658,Desigual Maroquinerie,364.4,269.75,2673.7,2840.25,null,null,1329.5,1497.05,null,null,null,null
+152,Maroquinerie Marken International,15,Accessoires Mode,2659,Kleinlederwaren Marken Maroquinerie,502,-288.9,1458.85,331.65,null,381.2,null,-2144.7,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,1080,Colifichets Maddison Damen,1037.5,199.25,1866.4,2215.7,4111.35,2949.25,-1666.5,379.6,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,1086,Guertel Maddison Damen,-232.5,514.35,444.35,607.35,157.15,673.65,939,311,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,1410,Handschuhe Maddison Damen,null,null,null,null,null,null,null,2582.4,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2514,Winter Maddison Accessoires Damen,1012.25,null,null,null,null,343.85,397.95,-5969.35,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2515,Huete Maddison Damen,-1414.05,null,null,null,-101.05,686.25,997.45,383.5,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2516,Pareo-Shop Maddison Damen,null,null,191.5,3294.9,299.95,934.35,604.75,null,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2517,Marken Foulards Damen,-275.65,936.15,null,null,-142,910.8,561.65,118.75,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2519,Sommer Accessoires AP Damen,2263.2,878.45,null,2185.95,285.05,null,null,null,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2520,JJB Accessoires Damen,162.25,173.4,null,null,null,null,null,null,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2521,Winter Accessoires AP Damen,null,null,null,null,null,-1528.85,-731.2,1958.05,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2612,Handschuhe Marken Damen,null,null,-226.5,null,null,null,null,null,null,null,null,null
+170,Accessoires Damen,15,Accessoires Mode,2613,Huete Marken Damen,null,429.35,null,null,901.75,529.55,null,null,null,null,null,null
+172,Schirme,15,Accessoires Mode,2510,Schirme Eigenmarken,null,-4213.7,null,299.15,null,null,null,null,null,null,null,null
+172,Schirme,15,Accessoires Mode,2513,Schirme Marken,null,-18589.85,132.35,null,null,null,null,-395,null,null,null,null
+173,Struempfe Eigenmarken,15,Accessoires Mode,1402,Maddison Strumpfhosen,null,407.1,387.2,437.65,142.6,235,242.2,-148.7,null,null,null,null
+173,Struempfe Eigenmarken,15,Accessoires Mode,1413,AP Strumphosen,915.3,368.85,566.3,299.15,270.7,394.75,545.7,null,null,null,null,null
+173,Struempfe Eigenmarken,15,Accessoires Mode,1415,AP Strumpfhosen Mode,-460.45,1753.95,-1515.7,691.2,null,146.3,291.75,null,null,null,null,null
+173,Struempfe Eigenmarken,15,Accessoires Mode,1422,Strumpfhosen Multipack,null,null,null,null,null,116.15,null,null,null,null,null,null
+175,Damensocken,15,Accessoires Mode,1416,Maddison Damensocken,-141.6,-110.8,-119.95,-161.8,-105.1,null,null,-119,null,null,null,null
+175,Damensocken,15,Accessoires Mode,1418,Socken Tennis und Sport Damen,null,null,null,144.7,159.95,null,null,-450.15,null,null,null,null
+175,Damensocken,15,Accessoires Mode,1421,AP Damensocken,949.35,164.05,null,null,null,null,846.65,null,null,null,null,null
+175,Damensocken,15,Accessoires Mode,1423,Damensocken Multipack,null,null,166.45,null,null,335.4,null,null,null,null,null,null
+175,Damensocken,15,Accessoires Mode,1424,Bleu Foret Damensocken,null,null,null,null,null,null,null,369.95,null,null,null,null
+175,Damensocken,15,Accessoires Mode,1697,Damensocken andere Marken,null,146.8,235.55,868.75,414.6,null,null,132.65,null,null,null,null
+176,Struempfe Marken International,15,Accessoires Mode,1401,Golden Lady Strumpfhosen,-328.5,382.05,null,-1404.7,-757.4,null,-1158.9,-578.1,null,null,null,null
+176,Struempfe Marken International,15,Accessoires Mode,1411,Struempfe Philippe Matignon,null,-697.3,null,null,null,null,1874.05,null,null,null,null,null
+176,Struempfe Marken International,15,Accessoires Mode,1412,Cavallini Strumpfhosen,3905.8,null,null,null,null,null,347.05,null,null,null,null,null
+176,Struempfe Marken International,15,Accessoires Mode,1696,Strumpfhose andere Marken,null,5263.5,-182.7,436.4,314.85,null,362.15,910.4,null,null,null,null
+160,Damenschuhe Eigenmarken,16,Schuhe,1172,Damenschuhe AP,null,707.35,621.35,601.1,1312.3,456.6,4518.3,4193.75,null,null,null,null
+160,Damenschuhe Eigenmarken,16,Schuhe,1176,Damenschuhe Yes or No,419.05,1790.25,450.65,1764.85,351.1,2121.95,2764.25,1353.95,null,null,null,null
+160,Damenschuhe Eigenmarken,16,Schuhe,1681,Damenschuhe Maddison,null,119.75,-343.15,2070.1,1651.95,-328.15,8435.2,2948.9,null,null,null,null
+163,Fournituren Schuhe,16,Schuhe,1217,Fournituren Schuhe,null,-147.85,null,-108.7,null,-179.2,null,-132.1,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1650,Damenschuhe Marken Easy,null,-188.95,-203.95,1184.3,3163.55,183,-222.35,-2275.05,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1651,Damenschuhe Marken Aktuel,395.4,-122.6,1997.25,-4383.35,null,677.85,4788,4084.9,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1652,Damenschuhe Marken Young,null,null,2040.9,null,338.3,null,null,null,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1653,Damenschuhe Geox,140.15,309.2,null,null,null,1408.8,1148.75,null,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1654,Damenschuhe Tamaris,null,900.4,387.55,334.15,130.7,242.85,null,188.25,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1655,Damenschuhe Vagabond,null,null,124.85,null,null,null,null,270.25,null,null,null,null
+164,Damenschuhe Marken,16,Schuhe,1656,Damenschuhe Guess,475.05,192.5,null,-223.65,null,null,null,484.05,null,null,null,null
+162,Kinderschuhe,20,Kinderbekleidung,1208,Hausschuhe Maedchen,null,null,null,null,null,null,null,743,null,null,null,null
+162,Kinderschuhe,20,Kinderbekleidung,1209,Bebeschuhe,null,null,198.35,null,null,null,null,296.6,null,null,null,null
+162,Kinderschuhe,20,Kinderbekleidung,1216,Sportschuhe Kinder,null,null,251,1021.75,null,540.7,-2591.65,-774,null,null,null,null
+162,Kinderschuhe,20,Kinderbekleidung,1277,Kinderschuhe Marken,null,252.85,122,null,157.75,1443.8,311.7,116.15,null,null,null,null
+162,Kinderschuhe,20,Kinderbekleidung,1379,Hausschuhe Knaben,null,null,null,null,null,117.35,304.5,null,null,null,null,null
+200,Staple Bebe,20,Kinderbekleidung,2000,Geburtsgeschenke,149.35,1726.75,-10086.05,null,-2791.5,324.1,-987.55,888.7,null,null,null,null
+200,Staple Bebe,20,Kinderbekleidung,2051,Kleine Puericulture,-411.15,495.65,291.35,-2274.8,245.25,668.25,137.15,104.35,null,null,null,null
+200,Staple Bebe,20,Kinderbekleidung,2055,Grosse Puericulture,null,326.9,342.95,1724.4,114,1213.55,370.25,183.15,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,1093,Ensembles Bebe,-1893.45,-1591.45,-996.65,967.15,null,437.9,-307.7,-1387.35,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,1094,Unterteile Bebe,487.15,618.2,1400.7,-490.95,-291.8,201.3,208.7,-1758.55,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2014,Marken bebe,444.6,-1231.4,1200.95,669.95,833.45,632.4,1058.3,1238.25,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2052,Accessoires Bebe,222.05,1581.7,null,139.15,-583.35,781.8,190.7,401.1,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2053,Oberteile Bebe,1054.2,308.8,null,1208.8,2036.85,2130.55,null,270.9,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2054,Bekleidung new born,null,null,644.25,null,null,-105.25,1480.95,null,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2057,Jacken Bebe,-2227.8,null,208.55,null,null,311.85,null,-1085.6,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2059,Bebekleider / Roecke,-276.15,null,-2782.85,-281.2,-1156.45,null,null,null,null,null,null,null
+201,Konfektion Bebe,20,Kinderbekleidung,2060,Cadet Rousselle,1244.7,637.3,null,null,-2104.85,null,null,null,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2022,Pullover Kids Boy,-556.75,null,null,null,null,null,2847.5,1382.85,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2023,Hemden Kids Boy,-953.9,null,null,null,null,null,null,144.55,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2091,Outdoor Kids Boy,2660,6892.9,-2551.38,null,null,null,-788.15,-534.15,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2092,Marken Kids Boy,348.2,1826.25,1366.4,2611.45,1814.8,1652.75,635.75,783.7,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2093,T-Shirts / Polo Kids Boy,-1117.6,695.55,null,-1387.55,8830.15,1863,1397.25,-465.8,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2095,Hosen / Jeans Kids Boy,-366.75,-7137.7,null,null,361.85,null,null,-2761.9,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2097,Short / Bermudas Kids Boy,null,null,1315.25,6349.45,6016.8,776.2,null,null,null,null,null,null
+202,Konfektion Kids Boy 2-8 Jahre,20,Kinderbekleidung,2098,Accessoires Kids Boy,126.7,-466.4,-115.95,600.1,null,null,402.7,-1020.3,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,1099,Short / Bermudas Maedchen,null,null,null,-100.6,-611,488.6,null,null,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2030,Pullover Maedchen,137.5,null,925.45,-1335.4,null,null,null,-184.8,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2031,Blusen Maedchen,null,373.3,null,120.15,584.3,1152.6,540.85,2803.55,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2064,Accessoires Maedchen,-379.95,null,-607.85,null,831.25,235.95,156.2,-1048.35,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2069,Marken Maedchen,374.85,1941.4,2226.85,1691.4,1976.7,854.6,2567.15,1457,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2074,Outdoor Maedchen,-986.4,-714.75,488.8,-223.85,null,null,-815.2,-6543.1,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2075,Maedchenkleider,null,672.95,1822.8,null,2470.1,4203.3,null,null,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2076,Jupes Maedchen,180.5,340.9,null,579.65,153.15,null,null,249.5,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2077,T-Shirt / Polo Maedchen,1138.2,897.6,748.9,1670.55,-2284.45,2567.1,-4160.55,208.4,null,null,null,null
+203,Konfektion Maedchen 8-14 Jahre,20,Kinderbekleidung,2078,Hosen / Jeans Maedchen,485.05,-589.35,-9035.3,-1032.35,-2061,3206.7,-4320.85,-386.55,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2032,Pullover Knaben,-455.4,null,null,null,null,null,null,null,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2033,Hemden Knaben,null,-198,109.2,-367.8,null,null,235,114.5,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2061,T-Shirt / Polo Knaben,1413.65,495.35,1989.95,-770.3,3449.15,591.05,-704.05,-133.65,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2082,Marken Knaben,505.9,-3211.05,-11754.95,-1308.55,1354.7,null,1752.35,1485.45,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2084,Hosen/Jeans Knaben,-705.3,-3176.05,-686.95,993.95,157.7,1730.65,null,-1616.1,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2085,Outdoor Knaben,3666.15,3057.6,null,null,null,null,-448.68,1371.3,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2086,Accessoires Knaben,450.3,183.2,196.4,-904.05,-334.15,null,215.7,null,null,null,null,null
+204,Konfektion Knaben 8-14 Jahre,20,Kinderbekleidung,2088,Shorts/Bermudas Knaben,null,null,-1419.55,6327.8,779.8,2948.2,null,null,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,1097,Regen Kinder,-2927.05,-1158,-1664.35,null,null,-1682.3,-8314.35,-4909.95,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2046,Textil Sport Kinder Marken,1333.2,1662.45,498.05,131.9,null,null,3462,373.6,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2065,Accessoires Sport Kinder,null,-1802.65,-500.85,-1380.35,-259,null,null,1872,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2073,Bade Kinder,-708.55,-1305.8,-182.2,-11085.7,-1000.5,null,3073.3,-1168,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2079,Textil Ski Kinder,null,null,null,null,null,null,null,-6252.2,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2081,Textil Sport Kinder,1311.4,-323.9,null,null,null,1142.05,-2106.3,null,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2087,Accessoires Sport Kinder Marken,152.9,-234,null,-1107.05,2389.6,null,null,102.5,null,null,null,null
+205,Kindersportbekleidung,20,Kinderbekleidung,2089,Bade Kinder Marken,null,null,null,728.55,null,null,null,null,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2016,Outdoor Kids girls,-738.4,-716.95,null,412.05,null,null,-2852.5,-9784.3,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2017,Marken Kids girls,-410.4,2306.5,984.1,872.2,2271.15,1918.2,1584.05,-159.3,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2018,T-Shirt / Polo Kids girls,-450.95,911.3,-2098.25,null,-1242.3,-4050.4,204.55,-2932.3,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2019,Hosen/Jeans Kids girls,2254.75,1637.1,-1606.25,-835.45,2071.7,-149.7,-3428.3,-914.2,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2020,Short/Bermudas Kids girls,null,null,275.45,1684.7,null,592.25,null,null,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2021,Accessoires Kids girls,-582.55,-429.95,-635.5,342.35,-3958.7,-2724.3,-730.75,-1662.6,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2034,Pullover Kids girls,454.75,-399.4,null,null,null,null,null,-300.75,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2035,Bluse Kids girls,528.8,null,null,null,null,null,-476.8,null,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2094,Jupes Kids girls,null,null,251.35,704.6,-803.2,null,506.9,null,null,null,null,null
+207,Konfektion Kids girls 2-8 Jahre,20,Kinderbekleidung,2096,Kleider Kids girls,473.1,1029.65,1028.65,-1121.4,-1611.1,-1058.25,-411.6,-1723.8,null,null,null,null
+270,Consommables Bebe,20,Kinderbekleidung,1079,Nachtwaesche Bebe,-7027.1,15891.9,-1010.8,-298.2,null,null,null,-2843.3,null,null,null,null
+270,Consommables Bebe,20,Kinderbekleidung,2005,Tagwaesche Bebe,-189.4,-432.8,463.35,144.35,-842.9,-1584.9,null,-2415.2,null,null,null,null
+270,Consommables Bebe,20,Kinderbekleidung,2008,Unterwaesche Bebe Marken,null,156.7,null,null,null,143.25,null,null,null,null,null,null
+270,Consommables Bebe,20,Kinderbekleidung,2012,Socken/Struempfe Bebe,204.3,1574.8,-315.45,-114.05,null,-109.9,-253,491.15,null,null,null,null
+271,Consommables Maedchen,20,Kinderbekleidung,2006,Unterwaesche Maedchen,-9104.5,213.25,null,-107.4,null,874.8,-933.25,-6933.8,null,null,null,null
+271,Consommables Maedchen,20,Kinderbekleidung,2009,Nachtwaesche Maedchen,-641.55,null,-998.65,-1912.15,-718.75,171.35,235.6,null,null,null,null,null
+271,Consommables Maedchen,20,Kinderbekleidung,2062,Consommables Maedchen Marken,790.9,727.2,null,null,null,null,995.5,null,null,null,null,null
+271,Consommables Maedchen,20,Kinderbekleidung,2066,Maedchensocken /Struempfe,1147.75,353,-179.5,-2118.55,-318.75,-121.3,null,-257.45,null,null,null,null
+272,Consommables Knaben,20,Kinderbekleidung,2024,Unterwäsche Knaben,-2985.5,null,null,null,null,null,null,-2312.1,null,null,null,null
+272,Consommables Knaben,20,Kinderbekleidung,2025,Nachtwaesche Knaben,-481.65,426.95,659.6,-1375.75,-329.45,629.15,212.15,-374.95,null,null,null,null
+272,Consommables Knaben,20,Kinderbekleidung,2026,Consommables Knaben Marken,null,153.2,null,null,null,null,null,null,null,null,null,null
+272,Consommables Knaben,20,Kinderbekleidung,2027,Socken Knaben,-1336.25,-2095.55,null,-368.65,-106.35,null,-553.1,-749.5,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1189,Herrenschuhe JJB, AP,null,157.7,null,null,null,null,null,209.65,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1190,Herren Schuhe weitere Marken,1143.35,1034.1,2181.55,347.05,3604.9,5171.45,3525.05,494.8,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1355,Herrenschuhe Young Eigenmarken,null,null,-154.7,null,418.15,null,null,-472.8,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1680,Schuhe-Accessoires Herren,-626.05,-167.9,-105.65,null,244.9,null,null,null,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1683,Herrenschuhe Bugatti,1147.4,326.7,789.7,1430,2068.6,662.05,1306.55,210,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1684,Herrenschuhe Lacoste,4535.45,null,null,null,null,null,530.45,null,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1686,Herrenschuhe Lloyd,null,null,null,null,-101.45,null,-116.95,null,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1687,Herrenschuhe Maddison,442.65,-357.1,null,-1313.65,null,169.65,-300.8,245.15,null,null,null,null
+161,Herrenschuhe,21,Herrenbekleidung,1688,Herrenschuhe Geox,152.35,-727.4,343,null,null,136.65,null,-302.15,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2113,Guertel, Hosentraeger Herren,-156.55,1611.3,null,null,-106.8,-340.4,-149.4,null,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2115,Huete, Muetzen Herren,null,549.25,830.05,445.2,null,null,null,1287.4,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2118,Schals, Halstuecher Herren,1122.75,null,705.5,321.85,null,null,218.85,5773.7,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2138,Mappen, Aktenkoffer Herren,null,null,null,null,110.9,null,155.25,212.75,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2139,Handtaschen, Umhaengetaschen Herren,-1000,116.35,null,134.85,245.65,451.55,360.65,768.65,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2140,Rucksaecke Herren,null,null,null,null,201.3,null,null,165.2,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2147,Reisetaschen, Weekender Herren,-328,null,null,null,null,null,null,null,null,null,null,null
+211,Accessoires Herren,21,Herrenbekleidung,2148,Portemonnaie Herren,null,null,null,null,null,null,112.55,851.6,null,null,null,null
+212,Unterwaesche Herren,21,Herrenbekleidung,2109,Hugo Boss Unterwaesche Herren,null,null,575.7,null,null,null,125.75,null,null,null,null,null
+212,Unterwaesche Herren,21,Herrenbekleidung,2124,Maddison Unterwaesche Herren,1421.6,-2548.4,null,-1144.85,1497.25,404.95,-3127.6,-4704,null,null,null,null
+212,Unterwaesche Herren,21,Herrenbekleidung,2125,Calvin Klein Unterwaesche Herren,null,null,null,138.1,-187.25,null,null,null,null,null,null,null
+212,Unterwaesche Herren,21,Herrenbekleidung,2157,Weitere Marken Unterwaesche Herren,null,null,-346.75,-9344.25,null,null,257.6,-383.2,null,null,null,null
+215,Socken Herren,21,Herrenbekleidung,1108,Maddison Socken Herren,319.35,172,null,null,-157.55,-2478.9,429.3,-294.9,null,null,null,null
+215,Socken Herren,21,Herrenbekleidung,1109,JJB Socken Herren,null,null,null,null,315.05,-999,null,null,null,null,null,null
+215,Socken Herren,21,Herrenbekleidung,2153,Hugo Boss Socken Herren,306.5,219.4,null,null,null,119.4,null,291.8,null,null,null,null
+215,Socken Herren,21,Herrenbekleidung,2154,Rohner Socken Herren,-364.55,-382.4,366.1,347.55,492.95,407.1,735.6,null,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,1050,Yes or No Black Herren,1130.25,null,941.5,null,null,332.15,919.95,2819.6,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2123,Accessoires Yes or No Herren,614.25,506.5,417.2,341.8,1737.55,317,1359.55,1135.2,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2217,Hosen Yes or No Herren,660.25,-342,3527.7,-2940.5,474.65,-567.7,-11066.55,-1731,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2238,T-Shirts Yes or No Herren,219.4,-270.9,-1061.8,-1082.2,-6027.6,-4689.15,149.45,138.2,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2239,Pullover Yes or Nor Herren,729.4,-239.95,null,null,null,null,null,-7217.45,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2240,Hemden Yes or No Herren,-526.2,342.45,615.85,114.55,null,null,null,-218.45,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2241,Blousons, Jacken, Maentel Yes or No Herr,1802,142.25,null,null,null,null,null,-4602.05,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2242,Lederbekleidung Yes or No Herren,null,null,null,null,null,null,282.6,null,null,null,null,null
+216,Yes or No Herren,21,Herrenbekleidung,2248,Unterwaesche Yes or No Herren,null,null,null,null,null,null,null,-1320.75,null,null,null,null
+217,Marken Young Herren,21,Herrenbekleidung,2161,Jack & Jones Herren,-112.6,966.45,1108.15,null,-1141.05,781.85,null,145.7,null,null,null,null
+217,Marken Young Herren,21,Herrenbekleidung,2162,Levis Herren,null,null,3115.2,null,null,null,null,null,null,null,null,null
+217,Marken Young Herren,21,Herrenbekleidung,2175,Weitere Marken Young Herren,null,-678.5,-471.65,241.6,null,461.1,null,null,null,null,null,null
+217,Marken Young Herren,21,Herrenbekleidung,2211,Tommy Hilfiger Herren,null,324.3,-152.5,null,1480.6,null,null,null,null,null,null,null
+217,Marken Young Herren,21,Herrenbekleidung,2250,G-Star young Fashion Herren,-191.25,-337.65,null,null,null,440.7,-275.25,-1162.45,null,null,null,null
+218,Badebekleidung Herren,21,Herrenbekleidung,2117,Marken Badebekleidung Herren,null,2563.2,-3905.65,-1778.8,null,null,null,null,null,null,null,null
+218,Badebekleidung Herren,21,Herrenbekleidung,2251,Maddison Badebekleidung Herren,null,null,6706.75,946.55,-133.9,null,-3294.35,null,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2100,Hemden Maddison Herren,3555.2,2190.9,-4855.7,2424.35,8291.5,3458.2,-6185.85,-813.55,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2134,T-Shirts Maddison Herren,1413.45,591.5,1468.95,2210.5,4940.2,5064.45,2218.3,965.4,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2135,Pullover Maddison Herren,554.4,717.8,null,null,null,null,-1687.5,-22605.55,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2160,Hosen Maddison Herren,3539.6,-3216.65,6841.35,287.45,705.75,5010.6,-742.2,-857.3,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2165,Blousons,Jacken, Maentel Maddison Herren,614.05,453.7,1529.7,null,null,null,561.9,1014.35,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2171,Blazer Maddison Herren,10622.15,3801.2,474.05,1835.15,null,null,-2612.1,-248.5,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2173,Lederbekleidung Maddison Herren,271.9,null,null,null,null,null,437.4,null,null,null,null,null
+220,Maddison Herren,21,Herrenbekleidung,2176,Kostueme, Anzuege Maddison Herren,null,null,null,null,null,null,1076.05,null,null,null,null,null
+221,Marken Easy Herren,21,Herrenbekleidung,2212,Esprit Herren,null,null,251.8,null,123.5,362.65,481.5,-126,null,null,null,null
+221,Marken Easy Herren,21,Herrenbekleidung,2243,Weitere Marken Easy Herren,null,null,1936,446.5,null,null,null,null,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2183,Hemden AP Herren,228.05,null,625.2,null,null,null,null,-1511.85,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2184,Pullover AP Herren,-3537.95,null,null,null,null,null,null,null,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2185,Hosen AP Herren,-805.3,null,447.05,null,null,-434,-2152.5,-1278.6,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2227,T-Shirts AP Herren,-143.95,-180.9,null,1557.45,null,null,null,-582,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2228,Blazer AP Herren,-366.7,-1397.1,923.25,null,null,-258.5,-2302.65,null,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2229,Blousons, Jacken, Maentel AP Herren,null,1677.2,154.05,null,137.3,null,null,-4537.05,null,null,null,null
+223,Avant-Première Herren,21,Herrenbekleidung,2230,Lederbekleidung AP Herren,null,null,null,null,null,null,231.35,null,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2194,Hemden Maddison WE Herren,null,282.35,1087.2,null,null,538.55,3335.1,null,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2195,Pullover Maddison WE Herren,null,null,null,null,null,null,1283.8,-2321.75,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2196,Hosen Maddison WE Herren,777.25,-658.4,2140,897.3,4987.7,-100.85,1291.25,8184.8,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2222,T-Shirts Maddison WE Herren,null,null,393.75,462.6,3809.7,null,1444.6,-1939.5,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2223,Blazer Maddison WE Herren,-980.8,null,-600.15,null,null,null,null,436.05,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2224,Blousons, Jacken, Maentel Maddison WE He,-8368.9,-2604.3,null,null,null,null,null,-13989,null,null,null,null
+224,Maddison Weekend Herren,21,Herrenbekleidung,2225,Lederbekleidung Maddison WE Herren,null,null,null,null,null,null,219.75,null,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2202,Hemden JJB Herren,336.85,109.3,356.85,null,null,172.25,333.3,505.05,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2203,Pullover JJB Herren,-209.1,null,null,null,null,null,null,-891.3,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2204,Hosen JJB Herren,127.9,364.3,1381.75,null,null,null,322.4,147.5,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2233,T-Shirts JJB Herren,null,1373.85,null,null,null,null,null,null,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2234,Blazer JJB Herren,-728.45,598.25,1749.5,null,null,null,277.3,219.75,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2235,Blousons, Jacken, Maentel JJB Herren,611.2,null,null,null,null,null,null,null,null,null,null,null
+225,JJB Herren,21,Herrenbekleidung,2236,Lederbekleidung JJB Herren,null,null,null,null,null,null,null,118.45,null,null,null,null
+227,Marken Actuel Herren,21,Herrenbekleidung,2213,S. Oliver Herren,662.85,347.45,341.8,395.4,733.85,1072.85,1028.3,499.55,null,null,null,null
+227,Marken Actuel Herren,21,Herrenbekleidung,2245,Weitere Marken Actuel Herren,460.2,713.35,1374.15,326.1,-220.2,null,null,109.25,null,null,null,null
+228,Marken Chic Herren,21,Herrenbekleidung,2232,Marken Herrenhemden Chic,null,2680.35,2145.5,-198.5,459.3,675.65,1473.4,587.15,null,null,null,null
+228,Marken Chic Herren,21,Herrenbekleidung,2246,Weitere Marken Chic Herren,330.15,2918.35,331.45,351.1,198.4,null,null,316.95,null,null,null,null
+280,Nachtwaesche Herren,21,Herrenbekleidung,2106,Maddison Nachtwaesche Herren,-3264.9,-732.25,-1057.6,null,1296.7,-231.4,null,-100.6,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,1075,Blousons, Jacken, Maentel Maddison Damen,1292.65,-1354,null,null,null,null,null,-6113.15,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,1103,Kleider Maddison Damen,-402.3,221.25,649.55,-283.85,2441.85,1023.65,null,-625.2,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9100,Lederbekleidung Maddison Damen,-156.45,null,-219.95,-182.15,null,null,null,null,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9108,Roecke Maddison Damen,467.8,637.1,-1334.15,614.45,246.55,null,null,null,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9118,Blusen Maddison Damen,1183.6,1427.6,1393,1466.95,-1224.35,1150.15,null,null,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9140,Hosen Maddison Damen,6895.9,1695.6,7170.85,4032.45,1195.05,803.35,776.25,-152.2,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9360,Blazer Maddison Damen,984.3,4410.85,1042.85,180.95,null,null,null,null,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9869,Pullover Maddison Damen,2131.3,1908.3,6861.65,991.1,161.85,475.95,-36261.05,-25124.3,null,null,null,null
+231,Maddison Damen,23,Damenkonfektion,9870,T-Shirts Maddison Damen,-402,1594,-994.9,196.35,-1153.8,412.25,3705.05,-3103.4,null,null,null,null
+234,Marken Young Damen,23,Damenkonfektion,9124,Jeans Shop Damen,null,-128.65,null,-501.9,null,-255.55,null,-134.35,null,null,null,null
+234,Marken Young Damen,23,Damenkonfektion,9213,Weitere Marken Young Damen,1070.6,-3976,-1636.9,-5572.1,-4951.8,-1248.4,252.5,-1949.7,null,null,null,null
+234,Marken Young Damen,23,Damenkonfektion,9224,Marken Trend Damen,null,null,-3893.4,-7797.05,null,null,-3175.75,null,null,null,null,null
+234,Marken Young Damen,23,Damenkonfektion,9228,Lyla Lyla Damen,1179.8,1891.6,2560.55,1554.25,132.5,969.55,270.7,1582.1,null,null,null,null
+234,Marken Young Damen,23,Damenkonfektion,9934,Blend Damen,null,null,245.4,302.95,null,null,null,null,null,null,null,null
+234,Marken Young Damen,23,Damenkonfektion,9936,Only Damen,830.25,933.75,1914.25,1004.35,479.7,1077.4,-784.4,-211.9,null,null,null,null
+237,Marken Easy Damen,23,Damenkonfektion,1106,Anna Montana Damen,-1577.7,-1505.6,-4956.05,-9635.8,-3980.6,-741.8,-216.65,-1426.4,null,null,null,null
+237,Marken Easy Damen,23,Damenkonfektion,9301,Mac Damen,null,487.35,352.2,178.3,-108.25,null,278.7,-314.15,null,null,null,null
+237,Marken Easy Damen,23,Damenkonfektion,9304,Weitere Marken Easy Damen,null,594.85,319.5,null,121.95,null,null,null,null,null,null,null
+237,Marken Easy Damen,23,Damenkonfektion,9306,Exquisit Marken Damenkonfektion,106.9,null,null,-285.25,null,null,null,null,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9900,Roecke Yes or No Damen,-445.1,1103.8,269.5,612.15,-1141.9,-1045.35,null,-1666.8,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9902,Lederbekleidung Yes or No Damen,null,1653.15,null,null,null,null,null,null,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9910,Blusen Yes or No Damen,1954.45,1215.6,-1396.45,4982.05,661.1,2043.5,-390.1,219.55,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9912,T-Shirts Yes or No Damen,443.55,3641.4,546.85,2773.45,2433.7,445.7,1214.05,1980.3,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9926,Hosen Yes or No Damen,-1525.2,3522.3,15692.65,9644.7,4834.9,4172.35,-1100.6,-2426.15,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9930,Pullover Yes or No Damen,-4243.45,-1082.2,-3811.15,-1368.5,261.35,-218.8,-281.8,-6436.8,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9940,Kleider Yes or No Damen,1731.25,null,1475.4,2799.85,3377.3,-114.6,373.65,-886.2,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9960,Blousons,Jacken, Maentel Yes or No Damen,1531.25,8821.8,-345.4,612.15,-222.65,-772.4,2360.3,-8200.75,null,null,null,null
+238,Yes or No Damen,23,Damenkonfektion,9961,Accessoires Yes or No Damen,247.5,1472.8,621.1,636.85,null,null,722.4,1267.4,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9230,T-Shirts Maddison WE Damen,537.5,768.95,1043.95,716.85,1189.8,null,-175.5,715.7,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9231,Pullover Maddison WE Damen,362.4,null,null,null,1055.9,null,-290.05,-147.05,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9232,Hosen Maddison WE Damen,335.25,null,1322.95,266.15,261.3,289.8,650.35,146.3,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9233,Blusen Maddison WE Damen,-225.25,null,568.95,539.3,3080.65,578.3,null,170.6,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9234,Roecke Maddison WE Damen,null,null,null,922.55,null,null,null,114,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9235,Kleider Maddison WE Damen,null,235.3,538.55,525.7,242.25,506,null,null,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9236,Blazer Maddison WE Damen,null,362.1,null,null,null,null,null,null,null,null,null,null
+242,Maddison Weekend Damen,23,Damenkonfektion,9237,Blousons, Jacken, Maentel Maddison WE Da,2144.3,null,null,null,null,null,-457.75,-1439.95,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9106,JJB Signature Damen,null,null,1260.55,null,-7629.55,null,null,null,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9143,T-Shirts JJB Damen,-777.4,null,-1080.4,null,-1638.75,null,null,-813.85,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9144,Pullover JJB Damen,null,423.05,398.5,null,null,null,null,-760,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9146,Blusen JJB Damen,null,659.8,-564.15,-1343.1,null,null,null,348.2,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9147,Hosen JJB Damen,1739.25,2598.1,-794.35,-741.5,1926.2,1171.5,null,2219.5,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9148,Roecke JJB Damen,1052.65,579.1,1390.8,null,1531.35,null,null,1140.3,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9149,Kleider JJB Damen,null,3414.3,-548.65,-706.3,986.1,null,null,1600.9,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9150,Blazer JJB Damen,1436.4,1773.95,1800.75,null,2143.1,null,null,3443.4,null,null,null,null
+245,JJB Damen,23,Damenkonfektion,9153,Blousons, Jacken, Maentel JJB Damen,null,null,891.8,null,null,null,null,-2489.85,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9962,Lederbekleidung AP Damen,null,233.5,null,null,null,null,120.5,983.1,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9968,T-Shirts AP Damen,349,-807.4,-2200.75,-737.6,-975.1,463.25,-1108.1,-652.55,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9969,Pullover AP Damen,-1297.55,-2936.4,811.3,189.3,-1857.8,381.65,-515.1,-1465.25,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9970,Blusen AP Damen,1563.65,1551.75,927,-189.35,1008.5,-1185.9,-470.75,-3461.95,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9971,Hosen AP Damen,null,3988.2,174.2,144.95,-467.45,2987.4,889.25,-3460.55,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9972,Roecke AP Damen,337.6,1130.4,null,340.9,-489.8,1409,304.05,-527.85,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9973,Blousons, Jacken, Maentel AP Damen,-526.95,719,629.3,null,null,null,371.45,-19886.25,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9980,Kleider AP Damen,275.75,1232.05,1016.35,860.8,2369.95,null,2828.95,-4385.6,null,null,null,null
+246,Avant-Premiere Damen,23,Damenkonfektion,9981,Blazer AP Damen,3408.3,1081.35,null,null,null,2115.4,null,null,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9103,Rinascimento Damen,null,-2327.7,-2602.65,-1540.05,2151.9,516.5,4549.1,-1066.55,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9167,Weitere Marken Actuel Damen,-1168.2,-3725.7,-3853.2,-242.8,-1536.25,null,157.3,6184.05,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9178,Ekyog Damen,null,null,null,null,-2343.65,null,null,null,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9210,Esprit Damen,273.4,null,780.75,1306.8,741.05,1480.8,1331.05,803.2,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9220,Sinequanone Damen,null,-1608.5,null,null,-2174.25,-450.45,null,null,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9924,Guess Damen,null,1874.2,203.6,210.1,316.75,863.2,5560.6,258.4,null,null,null,null
+247,Marken Actuel Damen,23,Damenkonfektion,9977,Mexx Damen,143.3,null,null,421.45,null,129.7,115.15,null,null,null,null,null
+248,Marken Chic Damen,23,Damenkonfektion,9156,Gil Bret Damen,-345.3,null,null,-1826.3,null,null,190.4,2018.7,null,null,null,null
+248,Marken Chic Damen,23,Damenkonfektion,9172,Weitere Marken Chic Damen,null,-2230.95,-2225.6,-204.05,null,null,-401.2,null,null,null,null,null
+248,Marken Chic Damen,23,Damenkonfektion,9176,Trendmarken Chic Damen,-255.05,null,null,-1710.1,-1252.5,null,null,308.85,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1511,Shapewear Damenwaesche Maddison,null,845.35,-387.4,460.75,null,-547.2,738.8,-1958.75,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1524,Modische Tageswaesche Damen Maddison,-761.8,null,null,-3108.05,null,938,null,-1222.55,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1530,Corsetterie Basis Maddison,-179.5,null,-219.4,-1286.6,-416.8,508,null,-18885.05,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1550,Ausverkauf Damenwaesche,null,null,null,null,null,-1462.55,-701.7,null,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1563,Winterwaesche Damen Maddison,null,null,null,null,null,null,null,-100.1,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1570,Tageswaesche Damen Basis Maddison,487.7,787.45,849.2,889.8,-439.9,null,-102.1,-2441.45,null,null,null,null
+251,Maddison Tageswaesche,25,Damenwaesche,1575,Corsetterie Mode Maddison,-872.15,-171,null,566.15,3266.75,null,null,-5997.9,null,null,null,null
+252,Maddison Nachtwaesche,25,Damenwaesche,1029,Nachtwaesche Mode Maddison,6844.2,3758.9,7161.65,1111.25,176.8,850.1,null,-2407.55,null,null,null,null
+252,Maddison Nachtwaesche,25,Damenwaesche,1515,Damen Nachtwaesche Maddison Weekend,null,null,689.55,null,null,null,null,null,null,null,null,null
+252,Maddison Nachtwaesche,25,Damenwaesche,1542,Nachtwaesche Damen Basis Maddison,null,4230.5,-214.7,111.9,244.2,-275.6,335.9,-863.05,null,null,null,null
+252,Maddison Nachtwaesche,25,Damenwaesche,1641,Gymwear,null,6565.35,null,null,null,null,null,-3083,null,null,null,null
+255,Bade Damen Marken,25,Damenwaesche,1504,Div. Marken Bade Damen,null,null,null,null,1181.65,null,1718.5,null,null,null,null,null
+255,Bade Damen Marken,25,Damenwaesche,1558,Sunflair Bade Damen,null,null,null,1102.95,null,null,null,null,null,null,null,null
+256,Yes or No Damenwaesche,25,Damenwaesche,1529,Corsetterie Mode Yes or No,159.15,null,215.8,1868.4,856.6,2180.55,null,-1893.8,null,null,null,null
+256,Yes or No Damenwaesche,25,Damenwaesche,1532,Damenwaesche Yes or No Black,-775.05,null,null,null,324.4,1774.75,null,null,null,null,null,null
+256,Yes or No Damenwaesche,25,Damenwaesche,1572,Damenwaesche Basis Yes or No,-296.3,null,-350.85,207.6,null,330.3,4925.4,-1133.65,null,null,null,null
+256,Yes or No Damenwaesche,25,Damenwaesche,1573,Nachtwaesche Yes or No,9734.5,1766.3,9538.1,573.85,3311.45,1368.35,null,-351.25,null,null,null,null
+257,Avant Premiere Damenwaesche,25,Damenwaesche,1400,AP Nachtwaesche,4745.2,2810.7,932,1147.4,608.3,3611.4,null,2904.05,null,null,null,null
+257,Avant Premiere Damenwaesche,25,Damenwaesche,1549,AP Corsetterie Seduction,-2385.85,1903.15,-146.25,-1594.4,-446.6,-1017.6,null,-7172,null,null,null,null
+257,Avant Premiere Damenwaesche,25,Damenwaesche,1581,AP Basis Corsetterie,1043.95,186.95,null,309.1,null,-271.5,null,-1116.15,null,null,null,null
+257,Avant Premiere Damenwaesche,25,Damenwaesche,1588,AP Accessoires Damenwaesche,null,null,-217.05,null,-345.95,null,null,null,null,null,null,null
+258,Junge Marken Damenwaesche,25,Damenwaesche,1398,Diverse junge Marken Damenwaesche,null,-1008.9,null,null,null,null,null,null,null,null,null,null
+258,Junge Marken Damenwaesche,25,Damenwaesche,1576,Esprit casual Damenwaesche,null,null,null,null,478.25,null,null,null,null,null,null,null
+261,Bade Damen Eigenmarken,25,Damenwaesche,1494,Beachwear Maddison,null,null,null,7449.75,571.95,499.1,null,null,null,null,null,null
+261,Bade Damen Eigenmarken,25,Damenwaesche,1501,Bade Damen Maddison,290.2,174,830.55,3712.75,null,273.95,234.45,null,null,null,null,null
+261,Bade Damen Eigenmarken,25,Damenwaesche,1502,Bade Damen Yes or No,null,192.65,1017.25,2575.25,4179.65,null,-204.6,-351.9,null,null,null,null
+261,Bade Damen Eigenmarken,25,Damenwaesche,1505,Bade Damen AP,null,922.55,455.35,4985.15,-1539.5,null,null,null,null,null,null,null
+261,Bade Damen Eigenmarken,25,Damenwaesche,1526,Bade Damen klassisch Maddison,null,295,-341.2,-1746.45,null,298,null,null,null,null,null,null
+261,Bade Damen Eigenmarken,25,Damenwaesche,1527,Bade Damen JJB,null,null,-237.25,-1707.1,191.7,null,null,null,null,null,null,null
+263,Marken Aktuel Damenwaesche,25,Damenwaesche,1523,Diverse Marken Aktuel Damenwaesche,null,null,null,3896.2,null,null,null,null,null,null,null,null
+264,JJB Damenwaesche,25,Damenwaesche,1426,Modische Nachtwaesche JJB,584.3,2056.9,245.5,null,null,null,null,-404.75,null,null,null,null
+264,JJB Damenwaesche,25,Damenwaesche,1531,Corsetterie JJB,579.15,-101.9,null,null,null,166,null,null,null,null,null,null
+264,JJB Damenwaesche,25,Damenwaesche,1586,Nachtwaesche Damen basis JJB,6642.7,4156.9,null,null,-136.2,null,null,null,null,null,null,null
+265,Marken Shapewear,25,Damenwaesche,1331,Magic Damenwaesche,961.15,205.9,3233.9,1373.7,null,904.05,1054.3,145,null,null,null,null
+100,Mercerie,30,Einrichtung,1001,Knoepfe,null,null,null,null,null,null,null,-2700.1,null,null,null,null
+100,Mercerie,30,Einrichtung,1002,Textilwaren,335.55,230.4,148.4,null,null,null,208,-1091.9,null,null,null,null
+100,Mercerie,30,Einrichtung,1024,Hartwaren,null,null,null,-287.45,null,null,140.8,null,null,null,null,null
+100,Mercerie,30,Einrichtung,1192,Boutique Wolle,null,null,null,null,662.3,null,null,null,null,null,null,null
+102,Kreativ & Dekoration,30,Einrichtung,1004,Fruehling/Sommer,null,null,938.95,1734.15,null,null,null,null,null,null,null,null
+102,Kreativ & Dekoration,30,Einrichtung,1046,Bastelartikel,null,null,null,null,127.4,null,null,null,null,null,null,null
+102,Kreativ & Dekoration,30,Einrichtung,3025,Dekoration,null,null,155.35,290.6,464.75,-736.25,1003.75,-644.85,null,null,null,null
+301,Fertigvorhaenge,30,Einrichtung,3004,Fertigvorhaenge Basis,null,null,122.1,null,-748.2,2213.85,462.55,1191.7,null,null,null,null
+301,Fertigvorhaenge,30,Einrichtung,3007,Fertigvorhaenge Promotion,-3574.95,6831.85,null,-768.3,null,1599.1,null,null,null,null,null,null
+301,Fertigvorhaenge,30,Einrichtung,3012,Fertigvorhaenge Marken,null,null,null,null,null,null,null,260.65,null,null,null,null
+302,Vorhang-Technik,30,Einrichtung,3001,Vorhang-Accessoires,107,1141.15,263.75,160.8,610.4,195.75,171.75,212.7,null,null,null,null
+302,Vorhang-Technik,30,Einrichtung,3002,Technisches Mass-Programm nr,null,null,2501.2,null,null,null,null,null,null,null,null,null
+302,Vorhang-Technik,30,Einrichtung,3003,Insektenschutz,null,null,null,-112.25,null,null,null,null,null,null,null,null
+302,Vorhang-Technik,30,Einrichtung,3005,Schaumstoff,null,null,-121.65,null,null,null,null,null,null,null,null,null
+302,Vorhang-Technik,30,Einrichtung,3009,Technisches Selbstbedienungs-Programm,null,-240.5,-118.7,-128.5,null,null,-316.6,null,null,null,null,null
+309,Spezialkategorien Einrichtung,30,Einrichtung,3048,Objekte nr,null,null,null,358.75,null,null,3746.15,1328.3,null,null,null,null
+310,Bettwaren,30,Einrichtung,1076,Kissen/Pfulmen,null,-1075.1,-294,-137.5,-138.5,-493.15,-940.8,-898,null,null,null,null
+310,Bettwaren,30,Einrichtung,3028,Matratzenschoner,null,-147.5,null,null,-219.65,null,-305.6,null,null,null,null,null
+310,Bettwaren,30,Einrichtung,3031,Gesundheitskissen,-284.1,null,null,null,111.9,-356.5,null,null,null,null,null,null
+310,Bettwaren,30,Einrichtung,3063,Promo Bettwaren,null,null,null,null,609.9,-4890.3,null,null,null,null,null,null
+311,Weisswaren,30,Einrichtung,1038,Bettwaesche bedruckt,-142.7,-1008.95,null,-299.05,null,-115.95,358.95,null,null,null,null,null
+311,Weisswaren,30,Einrichtung,2352,Fixleintuecher,-207.4,-129.65,-316.25,-356.3,-294.45,7307.95,-3761.15,-341.55,null,null,null,null
+311,Weisswaren,30,Einrichtung,3030,Country Collection,1941.9,1316.75,-737.65,641.5,1133.4,-2045.15,891.2,111.25,null,null,null,null
+311,Weisswaren,30,Einrichtung,3032,Hampton Park,299,-105.35,-689.9,270.95,166.05,7238.95,null,-617.35,null,null,null,null
+311,Weisswaren,30,Einrichtung,3033,Desigual Bettwaesche,null,null,null,6323.35,2033.9,null,null,null,null,null,null,null
+311,Weisswaren,30,Einrichtung,3034,Ueberwuerfe/Decken,399.2,null,4776.7,null,-117.9,894.5,null,-7844.8,null,null,null,null
+311,Weisswaren,30,Einrichtung,3038,Urban Living,-355.7,8130.8,3162.6,1334.1,null,5532.75,null,2930.1,null,null,null,null
+311,Weisswaren,30,Einrichtung,3040,Sitz-/Zierkissen,-2553.8,null,null,null,-2022.1,null,-1889.65,-185.65,null,null,null,null
+311,Weisswaren,30,Einrichtung,3041,Bassetti Bett,null,null,null,null,null,-122.05,736.65,154.4,null,null,null,null
+311,Weisswaren,30,Einrichtung,3047,Promo Weisswaren,-597.75,302.05,null,-138.5,-2014.65,-9574.45,-169.9,293.3,null,null,null,null
+311,Weisswaren,30,Einrichtung,3052,Percalex,-3027.35,-1964.2,-1436.3,-1152,-1539,-2117.35,-1279.1,null,null,null,null,null
+311,Weisswaren,30,Einrichtung,3054,Promo Sitz-Zierkissen,1116.55,null,288.8,null,null,-528.65,675.7,263.65,null,null,null,null
+311,Weisswaren,30,Einrichtung,3055,Promo Ueberwuerfe/Decken,15780.15,null,null,null,4505.2,9623.25,103.65,-1891.85,null,null,null,null
+311,Weisswaren,30,Einrichtung,3057,Baumwolle uni,null,null,-150.85,null,null,-353.4,-159.85,null,null,null,null,null
+311,Weisswaren,30,Einrichtung,3058,Pip Collection,1102.4,null,null,null,null,-429.45,1310.2,4377.2,null,null,null,null
+311,Weisswaren,30,Einrichtung,3059,Hotel Collection,-366.1,-238.7,-1402.55,null,-721.35,null,-1715.65,-166.95,null,null,null,null
+313,Tisch/Kueche/Garten,30,Einrichtung,2350,Moebel Lounge,24433.7,null,1184.1,null,null,null,null,-621.35,null,null,null,null
+313,Tisch/Kueche/Garten,30,Einrichtung,2351,Tischwaesche,3398.15,770.4,14275.6,-1009.1,2598.6,-262.3,142.4,-15.05,null,null,null,null
+313,Tisch/Kueche/Garten,30,Einrichtung,2356,Kuechenwaesche,-146.3,1969.1,1719.6,449.05,null,null,-377.75,null,null,null,null,null
+313,Tisch/Kueche/Garten,30,Einrichtung,3045,Lounge,382.8,4227.1,-11520.1,null,null,-312.75,null,null,null,null,null,null
+313,Tisch/Kueche/Garten,30,Einrichtung,3049,Promo Kueche,null,null,null,null,null,null,311.7,124.45,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3062,Techn. Bad-Zubehoer,null,null,-533.65,null,112.6,-250.4,-215.3,768,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3064,Promo Bad-Zubehoer,null,null,302.9,null,null,9826.15,5226.05,4995.1,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3065,Inox Bad,null,106.65,893.7,263.55,-55.2,197.15,-320.5,126.7,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3085,Accessoires Serien,450.9,-491.8,845.65,301.15,null,-903.3,429.15,null,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3086,Badmoebel,104,1013.4,null,null,null,null,350.2,211.5,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3087,Personenwaage,null,null,-120.05,null,null,null,-112.65,null,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3230,Cult Design Bad,null,105.7,null,null,null,106,null,null,null,null,null,null
+350,Bad-Zubehoer,30,Einrichtung,3241,Hammam Bad,130.3,null,null,null,null,null,null,null,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,2353,Frottierwaesche uni JJB,-857.3,-780,-894.95,-979.05,-890.2,-624.05,-836.4,-771.45,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,2354,Strandtuecher,null,6271.65,3626.4,1626.95,null,null,270.5,null,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,3067,Mathilde M. Bad,709,176.45,958.15,1022.25,821.15,null,null,null,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,3068,Duschvorhaenge,null,null,null,367.1,199.2,-27090.35,null,null,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,3069,Aquanova Bad,null,-143.45,null,null,-159.35,null,-115.35,-111.05,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,3075,Promo Bad-Textilien,4090.3,null,null,null,3595.6,1194.5,9422.6,-3169.5,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,3078,Frottierwaesche Fantasy,-124,null,null,null,-102.3,null,4939.95,null,null,null,null,null
+351,Bad-Textilien,30,Einrichtung,3081,Badeteppiche,-566.9,null,-1045.15,-920.55,null,225.85,null,-587.25,null,null,null,null
+400,Buecher,40,Bookstore,1064,Comics,119.85,null,null,null,null,null,null,null,null,null,null,null
+400,Buecher,40,Bookstore,1194,Kinderbuecher,null,null,-1853.1,-158.9,-378.6,-233.3,null,-791.7,null,null,null,null
+400,Buecher,40,Bookstore,1195,Taschenbuecher,null,1861.85,null,null,-108.6,null,-176.8,null,null,null,null,null
+400,Buecher,40,Bookstore,1196,Sprachbuecher,null,null,null,null,null,null,null,-2622.85,null,null,null,null
+400,Buecher,40,Bookstore,1197,Reisebuecher,null,null,null,-849.45,-162.5,-110.75,null,-122,null,null,null,null
+400,Buecher,40,Bookstore,1198,Romane,null,null,-167.3,229.75,150.15,null,-190.95,null,null,null,null,null
+400,Buecher,40,Bookstore,1199,Fachbuecher,null,null,null,-130.5,-307.9,null,null,-100,null,null,null,null
+400,Buecher,40,Bookstore,1452,Buecher (Mwst 8%),null,null,null,133.85,null,null,null,-257.95,null,null,null,null
+400,Buecher,40,Bookstore,1453,Merchand. Buecher (Mwst 8%),null,null,null,null,null,-124.45,null,null,null,null,null,null
+410,Sound,41,Vox Box,1258,Compact Disc a,null,null,-151.5,null,null,null,-590.05,-140,null,null,null,null
+411,Vision,41,Vox Box,1482,Digital Video Disc a,697.65,308.15,516.25,1002.7,682.05,380.3,-106.7,-167.4,null,null,null,null
+411,Vision,41,Vox Box,1484,Aktion DVD a,null,null,null,null,null,2545,null,null,null,null,null,null
+411,Vision,41,Vox Box,1489,Aktion Blu-Ray a,null,null,null,null,null,869.45,null,null,null,null,null,null
+411,Vision,41,Vox Box,1497,Blu-Ray a,111.8,null,384.35,1082.4,null,111.05,-212.95,null,null,null,null,null
+420,Foto Hard,43,Multimedia Hard,1074,Camcorder,null,null,null,null,141,null,null,null,null,null,null,null
+420,Foto Hard,43,Multimedia Hard,1201,Digital Reflex Cameras,-3048,null,null,null,null,null,null,null,null,null,null,null
+420,Foto Hard,43,Multimedia Hard,1202,Digital Compact Cameras,-3655,null,null,null,null,null,null,null,null,null,null,null
+421,Photo Zubehoer,43,Multimedia Hard,1008,Foto Taschen,null,null,null,null,null,null,null,103.8,null,null,null,null
+421,Photo Zubehoer,43,Multimedia Hard,1009,Speicherkarten,null,null,null,null,null,null,null,115.6,null,null,null,null
+421,Photo Zubehoer,43,Multimedia Hard,1204,Foto Accessoires,null,null,137.1,203.35,null,null,null,195.3,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1073,Portable DVD/BR Player,null,null,null,null,160.75,null,null,null,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1246,Home Cinema System,null,188.25,152.1,-346.7,-868.55,-628.65,null,null,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1250,TV 30 bis 39 Zoll,null,null,-130.9,null,null,null,null,null,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1251,TV 40 bis 44 Zoll,null,null,-984,null,null,null,null,null,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1253,TV 45 bis 49 Zoll,null,null,200,null,null,null,null,null,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1254,DVD/BR Player,-716,null,null,null,null,null,null,null,null,null,null,null
+423,TV/Video,43,Multimedia Hard,1255,TV 50 bis 59 Zoll,1055.6,null,107.25,-903.1,null,null,null,null,null,null,null,null
+424,Portable,43,Multimedia Hard,1235,DAB/Radio/Wecker,253.1,509.75,null,null,285.35,-2436.7,1016.9,-263.05,null,null,null,null
+424,Portable,43,Multimedia Hard,1263,Telefone,null,-1014.05,259.85,108.3,null,-512.6,null,333.85,null,null,null,null
+424,Portable,43,Multimedia Hard,1465,Accessoires GPS,164.1,null,null,null,null,107.7,null,null,null,null,null,null
+424,Portable,43,Multimedia Hard,1467,GPS,108,null,null,null,null,null,null,-11803.15,null,null,null,null
+425,Hi-Fi,43,Multimedia Hard,1240,Accessoires HiFi,206.25,null,null,null,107.75,null,115,null,null,null,null,null
+425,Hi-Fi,43,Multimedia Hard,1244,HiFi System,877,584.8,null,220.5,null,null,251.7,null,null,null,null,null
+430,PC,43,Multimedia Hard,1043,HP Computer,null,223.15,null,null,null,null,null,null,null,null,null,null
+430,PC,43,Multimedia Hard,1435,Apple Computer,630.3,707.2,334.35,262.7,850,449.8,241.2,205.7,null,null,null,null
+430,PC,43,Multimedia Hard,1437,Computer Divers,null,131.05,null,null,null,null,null,null,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1111,Peripherie divers,null,null,118.6,null,124.8,null,null,-825.7,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1112,Canon Printer,5432,null,null,-1260.4,113.2,null,null,null,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1394,Samsung Printer,null,null,null,null,-537.2,null,null,null,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1430,Apple Peripherie,-2499.5,542.15,725.85,1794.55,1005.75,1427.95,583.9,434.4,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1431,Pointing Devices,null,192.15,null,292.7,null,149,104,null,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1432,Data Storing Devices,-131.2,272.55,-165.6,-6625.65,-3047.25,1037.2,222.7,-473.3,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1433,Video/Sounds Devices,null,null,172.2,217.3,null,null,null,null,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1442,PC/NB-Kommunikation,null,119.3,null,null,131.15,null,null,-540.7,null,null,null,null
+431,Peripherie,43,Multimedia Hard,1470,HP Printer,752.45,-620.65,null,756.35,-189.05,-251.05,107.2,606,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1042,Apple iPad & iPhone,7154.75,3495.8,470.55,5579.35,1481.7,546.9,null,108.55,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1058,Toshiba Notebooks,null,109.05,null,183.2,null,710.9,null,null,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1384,Tablet PC & Smartphone,null,null,null,null,null,null,null,281.95,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1485,Sony Notebooks,-228.55,null,8637.8,1549.45,null,null,null,null,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1486,HP Notebooks,null,161,null,null,634.85,null,null,null,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1487,Apple Notebooks,594.05,395.35,null,-40245.4,957.2,194,334.2,507.55,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1703,Sony Convertibles,913.9,null,1196.2,1943.5,null,null,null,null,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1714,Sony Tablet und Smartphone,null,null,null,null,null,373.45,null,null,null,null,null,null
+433,PC-Mobil,43,Multimedia Hard,1715,Samsung Tablet und Smartphone,2049.4,13878.4,14719.8,24100.4,132.8,null,120.6,null,null,null,null,null
+435,Zubehoer Informatik,43,Multimedia Hard,1007,Batterien + Ladegeraete,1894,341.15,302.65,195.8,185.8,1096.95,null,260.5,null,null,null,null
+435,Zubehoer Informatik,43,Multimedia Hard,1087,Datentraeger,104.1,102.85,null,178.5,null,108.9,108.1,266.85,null,null,null,null
+435,Zubehoer Informatik,43,Multimedia Hard,1150,Verbrauchsmaterial IT,-5901.1,407.55,-237.1,154.85,-491.75,-465.5,-494.9,null,null,null,null,null
+435,Zubehoer Informatik,43,Multimedia Hard,1238,Archivierung & Reinigung,null,133.3,null,126,null,129.9,107.15,118.3,null,null,null,null
+435,Zubehoer Informatik,43,Multimedia Hard,1462,Printer Papier,null,null,124.35,null,null,null,null,null,null,null,null,null
+435,Zubehoer Informatik,43,Multimedia Hard,1463,Kabel Multimedia,480.35,null,151.05,1372.4,null,450.4,251.75,539.15,null,null,null,null
+436,Computer Software,43,Multimedia Hard,1113,Software Professional a,-979,-2098.15,null,-1238.4,-2140.4,-1506.65,-311.95,null,null,null,null,null
+436,Computer Software,43,Multimedia Hard,1446,Learn and Leisure a,-116.65,null,-525.75,null,null,null,null,null,null,null,null,null
+436,Computer Software,43,Multimedia Hard,1447,Grafik/Bildbearbeitung a,null,-175.7,null,null,null,null,null,null,null,null,null,null
+436,Computer Software,43,Multimedia Hard,1459,Mac Software Pro a,1016.65,-2019.6,-103.9,-372.45,-2081.1,-930.05,-459.25,null,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1059,Kopfhoerer,637,-304.05,null,null,424.75,6740.95,3378.75,1126.15,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1114,Tasche Multimedia,188.25,207.85,175.35,175.25,148.3,183.75,null,365.95,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1269,Accessoires iPad,-510.05,569.85,372.25,-201.55,142,-885.2,211.75,null,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1388,Peripherie Tablet PC,150.2,null,null,null,-152.65,null,null,null,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1466,Digital Audio Portable,305.05,null,null,null,null,null,340.05,null,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1472,Accessoires iPhone/iPod,1510.05,1426.8,-539.3,-889.35,-444,1085.25,361.35,1049.2,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1473,Apple Ipod,1913.65,611.4,122.9,-851.5,-1698.3,-462.55,null,null,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1708,Sounddocks,-304.55,-528.7,219.9,-1251.4,2003.3,992.35,958.85,744.85,null,null,null,null
+437,Digital Portable,43,Multimedia Hard,1709,Accessoires Tablet,null,919.45,1711.8,-454.15,-907.55,null,null,-195,null,null,null,null
+440,Soft Box,44,Soft Box,1448,Sony Hardware Soft Box,8139.8,956.8,null,328.65,896.95,null,-16161.55,null,null,null,null,null
+440,Soft Box,44,Soft Box,1449,Microsoft Hardware Soft Box,null,null,-823.85,-3004.5,-437.75,null,null,null,null,null,null,null
+440,Soft Box,44,Soft Box,1468,Nintendo Hardware,156.6,-1517.95,-1200.45,-1250.35,-741.3,-250.8,-2434.8,-1756.75,null,null,null,null
+500,Geschirr,50,Haushalt,3098,Trendgeschirr,343.2,null,null,386.2,329.2,1456.4,-212.05,null,null,null,null,null
+500,Geschirr,50,Haushalt,3099,Seriengeschirr,null,-2444.65,474.65,210,145.05,-1050.3,788.25,267.45,null,null,null,null
+500,Geschirr,50,Haushalt,3102,Geschirrsets,null,null,null,626.65,-327.95,null,1100.8,1939.1,null,null,null,null
+500,Geschirr,50,Haushalt,3103,Einzelgeschirr,null,null,null,180.35,null,432.6,461.15,618.75,null,null,null,null
+500,Geschirr,50,Haushalt,3104,Mug,null,176.15,null,326.5,null,229.25,null,null,null,null,null,null
+500,Geschirr,50,Haushalt,3106,Blond,null,510,161.45,-122.4,138.6,185.05,null,null,null,null,null,null
+500,Geschirr,50,Haushalt,3108,Antipasti Geschirr,null,null,null,null,-123.9,1008.9,null,null,null,null,null,null
+500,Geschirr,50,Haushalt,3110,Orientalisches Geschirr,121.7,null,null,null,-111.9,996.25,null,null,null,null,null,null
+500,Geschirr,50,Haushalt,3111,Promo Geschirr,-7024.9,null,null,null,260,462.7,683.45,116.5,null,null,null,null
+500,Geschirr,50,Haushalt,3115,Kindergeschirr,null,null,null,null,118.85,null,null,null,null,null,null,null
+501,Glas,50,Haushalt,3109,Gartenparty,521.95,null,670.6,213.05,174.2,null,null,null,null,null,null,null
+501,Glas,50,Haushalt,3170,Serienglaeser,null,null,2672.05,-1902.75,-1377.8,null,-306.25,-405.35,null,null,null,null
+501,Glas,50,Haushalt,3173,Einzel-Glaeser,null,-485.85,null,-1161.8,-1613.15,146.25,-101.35,-157.45,null,null,null,null
+501,Glas,50,Haushalt,3178,Glasgeschirr,-403.45,322.65,-241.95,-3216.8,null,1053,226.4,null,null,null,null,null
+501,Glas,50,Haushalt,3179,Promo Glas,135.05,131.3,null,-926.85,-352.4,-382.15,344.2,11177.55,null,null,null,null
+502,Besteck,50,Haushalt,3300,Serienbestecke,-201.85,-141.6,-324.25,null,-175.9,-135,-149.25,-213.9,null,null,null,null
+502,Besteck,50,Haushalt,3301,Kinder Tischgedeck,null,null,153.6,null,null,null,null,null,null,null,null,null
+502,Besteck,50,Haushalt,3331,Besteckgarnituren,470.3,null,null,null,113.9,null,null,-1668.85,null,null,null,null
+502,Besteck,50,Haushalt,3335,Promo Besteck,null,null,-160,-391.7,null,null,null,null,null,null,null,null
+520,Kochen,50,Haushalt,1023,Ofengeschirr,null,null,-153.95,-180.4,null,null,null,-161.85,null,null,null,null
+520,Kochen,50,Haushalt,3120,Fondue,372.65,-163.3,261.7,-928.55,-157.95,null,null,-251,null,null,null,null
+520,Kochen,50,Haushalt,3273,Bratpfannen,-894.35,-464.1,133.35,null,134.55,122.75,-318.8,130.9,null,null,null,null
+520,Kochen,50,Haushalt,3274,Dampfkochtoepfe,552.85,1539.05,null,null,null,116.7,null,null,null,null,null,null
+520,Kochen,50,Haushalt,3275,Kochgeschirr,null,-425.7,112.85,1200.65,null,170.7,null,1988.9,null,null,null,null
+520,Kochen,50,Haushalt,3528,Grill/kuehlen,null,null,286.8,1520,1802.1,342.3,null,-24.9,null,null,null,null
+520,Kochen,50,Haushalt,3529,Promo Kochen,2872.3,861.45,2092.9,495.25,-1736.3,500.8,null,112.6,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,1027,Gewuerze/Schneidbretter,205.3,null,null,-1.4,1027.3,null,110.45,406.75,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,1033,Inox,null,null,null,134.7,null,null,null,null,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3125,Bar/Wein Artikel,617.45,278.6,null,-127,null,-260.3,-304.5,-311.55,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3213,Kleinplastik / Vorrat,null,1866.8,-495.9,-141.65,null,-108.8,-122.5,321.5,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3277,Backartikel,-154.6,694.2,340.25,124.45,458.9,276.25,260.3,153.5,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3278,Einmachen,null,545.85,null,null,null,176.75,null,null,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3280,Brunch,652.9,319.3,235.4,-4491.3,1086.9,-129.95,382.2,578.55,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3310,Soda Stream,-206.45,null,-176.25,null,null,null,-132.9,-132.55,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3311,Konzentrate/Kapseln,null,null,null,null,162.95,null,null,null,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3314,WMF,null,102.6,128.25,null,null,null,null,null,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3315,Bodum,null,888,139.95,null,-458.4,-578.8,-465.05,null,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3316,Kuechenmaschinen,111.35,null,101.55,-438.45,null,null,-143.1,210.2,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3317,Trend,null,-463.9,115.8,null,249.3,null,null,-152.05,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3332,Kuechenmesser,null,-126.8,null,-4794.7,-115.95,null,null,-104.6,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3342,Promo Kuechenutensilien,-1447.35,970.75,-5248.35,null,-4541.6,-1059.1,1147.35,-1351.95,null,null,null,null
+521,Kuechenutensilien,50,Haushalt,3343,Kuechengadgets,-613.85,568.75,432.9,null,205.15,1070.4,147.1,2085.25,null,null,null,null
+531,Haushalthilfen,50,Haushalt,3183,Haushalt-Zubehoer,-3197.5,null,477.25,null,255.05,null,2096.6,-201.6,null,null,null,null
+531,Haushalthilfen,50,Haushalt,3185,Waescheartikel,null,261.2,null,-131.25,null,null,-546.3,null,null,null,null,null
+531,Haushalthilfen,50,Haushalt,3189,Hold Everything,-1988.65,-2493.55,null,-246.3,null,106.45,-106.1,-215.5,null,null,null,null
+531,Haushalthilfen,50,Haushalt,3190,Do-it,null,-101.85,null,null,null,null,-100.85,null,null,null,null,null
+531,Haushalthilfen,50,Haushalt,3210,Haushaltplastik,136.65,null,null,147.95,250.65,null,-116.4,null,null,null,null,null
+531,Haushalthilfen,50,Haushalt,3429,Kleinmaterial Elektro,null,240.55,null,2811.4,361.1,133.9,-839.7,8224.85,null,null,null,null
+533,Reinigung,50,Haushalt,3194,Duft / Reinigung,892.1,-504.85,null,331.85,-1462.55,null,-291.65,-2725.7,null,null,null,null
+533,Reinigung,50,Haushalt,3195,Putz-/Hygieneartikel,133.3,-107.15,334.95,428.2,1289.65,646.5,552.25,121.2,null,null,null,null
+533,Reinigung,50,Haushalt,3200,Buersten/ Besen,null,-156.7,null,null,null,null,-172.4,1280.4,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,1117,Kerzenstaender,1147.55,464,644.5,840,1170,1082.7,727.05,294.75,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,3139,Duefte,723.45,-161.85,-283.25,-112,-128.3,79.3,708.15,188.45,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,3146,Party Artikel,-763.55,-444.15,-553.35,244.4,-827,-2106.25,-392.35,-279.9,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,3147,Promo Tischdeko/Kerzen,null,null,379.5,null,-1512.1,2373.5,3205.3,null,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,3149,Deko/Zubehoer,null,null,null,550.05,null,null,null,null,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,3482,Weihnachtskerzen,null,null,null,null,null,-141.1,-1842.75,310.55,null,null,null,null
+550,Tischdeko/Kerzen,50,Haushalt,3484,Party Weihnachten,null,null,null,null,null,null,null,-236.65,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,1012,Leonardo,193.15,null,350.1,301.7,-388.65,-291.6,null,null,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,1169,SIA,null,null,737.6,436.05,274.5,null,310.25,null,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,3135,ASA,null,142.65,null,null,null,null,null,null,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,3163,Glas,null,null,null,-3707.2,null,null,null,-674.55,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,3276,Wintergarten,461.1,1759.65,937.2,-216.8,null,null,null,null,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,3345,Kunstblumen,null,null,null,808.45,118.8,null,null,null,null,null,null,null
+551,Wohnaccessoires,50,Haushalt,3347,Promo Wohnaccessoires,-503,1905.4,null,null,null,2637.55,2078.15,1652.45,null,null,null,null
+553,Weihnachtsschmuck,50,Haushalt,3475,Baumschmuck/Glas,null,null,null,null,null,338.7,1066.6,1316.65,null,null,null,null
+553,Weihnachtsschmuck,50,Haushalt,3483,Weihnachtstischdekoration,null,null,null,null,null,null,2401.3,2669.4,null,null,null,null
+553,Weihnachtsschmuck,50,Haushalt,3590,Licht,null,null,null,null,null,null,4628.2,5773.6,null,null,null,null
+553,Weihnachtsschmuck,50,Haushalt,3596,Weihnachtsaccessoires,null,null,null,null,null,null,1069.2,141.1,null,null,null,null
+555,Saisonal,50,Haushalt,3166,Garten/Balkon,2820.5,6492.3,1651.2,606.45,null,682,null,null,null,null,null,null
+555,Saisonal,50,Haushalt,3472,Ostern,347.55,3398.35,2040,null,null,null,null,null,null,null,null,null
+540,Elektroapparate,54,Elektro,1130,Schoenheit/Gesundheit Elektro,-1406.85,-1131.1,-3155.05,-3579.05,null,139.1,null,-488,null,null,null,null
+540,Elektroapparate,54,Elektro,1223,Epiliergeraete,-5289.35,-2529.95,-3211.75,-8164.45,-3070.2,-2553.8,-1317.75,-470.95,null,null,null,null
+540,Elektroapparate,54,Elektro,3351,Staubsauger,-3324.05,-22674,-652.95,425.2,220.05,1774.85,191.05,217.45,null,null,null,null
+540,Elektroapparate,54,Elektro,3352,Waeschepflege Elektro,196.8,-586.8,7292,-1471.15,-130.6,-5467.95,534.6,null,null,null,null,null
+540,Elektroapparate,54,Elektro,3353,Saison Elektro,-167.45,291,808.9,-8674.6,-1091.5,-5942.45,-4407.5,1158.4,null,null,null,null
+540,Elektroapparate,54,Elektro,3354,Zubereiten Essen Elektro,-396.15,-2113.8,null,null,null,160.2,1276.6,1752.3,null,null,null,null
+540,Elektroapparate,54,Elektro,3355,Kochen/Fruehstueck Elektro,-109.2,-197.4,1174.55,742.5,762.5,1273.05,1499.95,764.1,null,null,null,null
+540,Elektroapparate,54,Elektro,3356,Kochen am Tisch Elektro,254,null,null,null,null,null,357.15,null,null,null,null,null
+540,Elektroapparate,54,Elektro,3357,Mundpflege,-8869,-4627.65,-3328.5,-11533.4,-3199.15,-2383.1,-164,-534.25,null,null,null,null
+540,Elektroapparate,54,Elektro,3358,Haarpflege,-2649.2,1089.9,1130.6,1330.75,2692.1,null,-8483.5,142.95,null,null,null,null
+540,Elektroapparate,54,Elektro,3359,Haarentfernungsgeraete,-13484.65,-4487.05,-3025.45,-3899.1,-2877.75,-3812.05,-535.65,-1501.2,null,null,null,null
+540,Elektroapparate,54,Elektro,3360,Mikrowellen/Ofen,null,null,null,-650,null,512.4,null,145.4,null,null,null,null
+540,Elektroapparate,54,Elektro,3361,Bodum Elektro,null,2138,-190.6,-110.9,null,-5567.6,null,null,null,null,null,null
+540,Elektroapparate,54,Elektro,3382,Kaffee-/Tee Geraete,-2487.4,null,401.75,-1536.95,-3306,-3716.4,-391.7,113.6,null,null,null,null
+540,Elektroapparate,54,Elektro,3383,Zubehoer/Ersatzteile Elektro,-4307.8,-3612.35,-3302.55,-2896.8,-2045.75,-1211.6,1982.75,-515.8,null,null,null,null
+610,Zoo,61,Zoo,1125,Aquaristik,-359.2,382.7,1482.55,-1595.7,null,1065.05,null,-4129.55,null,null,null,null
+610,Zoo,61,Zoo,1126,Kleintierartikel,null,null,null,null,null,null,110.8,null,null,null,null,null
+610,Zoo,61,Zoo,1127,Vogel-Artikel,null,null,null,104.95,null,null,null,117.25,null,null,null,null
+610,Zoo,61,Zoo,1133,Hunde-Artikel,null,null,-118.5,null,null,324.1,147.35,307.25,null,null,null,null
+610,Zoo,61,Zoo,1134,Katzen-Artikel,null,null,8.8,null,null,null,239.15,537.7,null,null,null,null
+610,Zoo,61,Zoo,1139,Hundefutter,98.55,-72.15,387.05,-100.1,837.2,-212.65,1469.8,1404.85,null,null,null,null
+610,Zoo,61,Zoo,1184,Tiernahrung,-2883.9,-669.15,127.4,-454.95,-597.85,-574.6,-783,-1224.55,null,null,null,null
+610,Zoo,61,Zoo,1193,Katzenfutter,678.6,380.65,-497,435.75,257.25,-1559.55,22164.4,1037.5,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,2701,Trekking-Bekleidung Damen,176.8,-1782.85,null,null,-1065.7,null,-5311.25,-4114.3,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,2704,Fitness Damen,1488.45,null,-1087.75,-174.7,347.65,-506,null,-1095.95,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,2705,Bademode ganzjahr Damen Eigenmarken,null,null,null,null,-1171.8,null,-149.5,-1029.75,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,2706,Yoga Damen Eigenmarken,null,-1407.4,-3016.75,null,null,-579.75,null,null,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,2725,Beachwear+Streetwear Damen,null,null,null,-1914.85,null,null,null,null,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,2726,Textil Running Damen,-182.6,-1405.2,-1302.05,null,null,null,-1243.95,-445.1,null,null,null,null
+623,Eigenmarken Sportbekl. Damen,62,Sport + Reisen,3511,Casual Sport Damen,null,null,-429.75,null,null,null,null,-1611.5,null,null,null,null
+624,Eigenmarken Sportbekl. Herren,62,Sport + Reisen,3515,Bademode ganzjahr Herren Eigenmarken,null,null,null,null,-202.2,null,-407.55,-780.25,null,null,null,null
+624,Eigenmarken Sportbekl. Herren,62,Sport + Reisen,3570,Trekking-Bekleidung Herren,-475.9,-2183.8,624.6,null,4778.35,null,-5981,233.35,null,null,null,null
+624,Eigenmarken Sportbekl. Herren,62,Sport + Reisen,3571,Fitness Herren,-785.25,null,-1029.95,null,-678.1,-864.9,-2721.35,-1004.95,null,null,null,null
+624,Eigenmarken Sportbekl. Herren,62,Sport + Reisen,3573,Casual Sport Herren,null,null,-868.6,-291.1,null,null,null,-1953.15,null,null,null,null
+624,Eigenmarken Sportbekl. Herren,62,Sport + Reisen,3583,Textil Running Herren,-777.25,-540.55,-1703.7,null,null,null,-2917.5,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2730,Trekking-Bekleidung Damen Marken,null,null,506.65,351.45,null,null,null,401.75,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2731,Fitness Damen Marken,-434.1,-1027,-732,156.05,505.65,null,317.4,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2735,Beachwear+Streetwear Damen Marken,null,null,null,-5037,null,null,null,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2736,Sport-Waesche Damen Marken,null,817.2,428.35,null,159.95,177.85,null,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2737,Sporttaschen Damen Marken,null,null,null,null,null,null,null,145.2,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2738,Casual Sport Damen Marken,109.2,-3959.45,-130.15,131.95,-1180.4,null,113.5,2028.4,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2740,Textil Running Damen Marken,-674.1,453.2,null,null,null,null,-506.15,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2741,Bademode ganzjahr Damen Sportmarken,null,null,null,187.3,null,null,110.05,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2742,Yoga Damen Marken,null,-1981.9,null,null,null,null,230.9,null,null,null,null,null
+626,Marken Sportbekl. Damen,62,Sport + Reisen,2743,Funktion Bra Sport,null,null,null,null,null,null,190.55,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3517,Bademode ganzjahr Herren Sportmarken,null,null,2660.7,null,null,130.85,146.6,206.4,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3518,Beanies/Headbands Sport,null,null,null,null,null,-155.55,175.55,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3519,Caps/Huete/Buff Sport,null,132.85,null,167.2,null,null,249.65,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3538,Socken Sport,null,386.8,424.45,null,-5240.6,171.4,241.4,326.65,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3551,Handschuhe Sport,null,1300.15,null,null,null,null,null,1946.35,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3560,Trekking Herren Marken,null,null,185.05,null,null,null,null,529,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3561,Fitness Herren Marken,null,260.5,null,null,332.15,null,874.6,843.35,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3562,Snowwear Herren Marken,129.6,null,null,null,null,null,null,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3565,Beachwear+Streetwear Herren Marken,null,null,-1387.35,-477.95,-884.75,-574,null,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3566,Sport-Waesche Herren Marken,109,1791.35,127.3,null,null,null,null,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3567,Sporttaschen Herren Marken,null,null,null,null,null,null,145.2,null,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3568,Casual Sport Herren Marken,249.3,-5360,-347.15,null,447.3,null,297.8,1855.65,null,null,null,null
+627,Marken Sportbekl. Herren,62,Sport + Reisen,3582,Textil Running Herren Marken,-157.5,1122.6,null,null,null,null,182.2,136.95,null,null,null,null
+630,Velo,62,Sport + Reisen,3410,Velo-Accessoires,null,null,103.15,null,null,null,null,null,null,null,null,null
+630,Velo,62,Sport + Reisen,3411,Velohelme,null,null,259.4,501,-1576.1,null,null,null,null,null,null,null
+630,Velo,62,Sport + Reisen,3413,Velo Equipment,null,null,223.2,null,null,null,null,null,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3512,Trendschuhe,1605.75,2136.5,737.85,808.05,-581.35,1314.6,1588.6,797.25,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3513,Runningschuhe,-251,204,131.6,247.6,null,null,793.35,312.2,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3514,Running Accessoires,null,null,null,null,null,null,-118.15,null,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3516,Fussballschuhe,435.8,538.7,null,null,null,374.9,null,118.3,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3520,Fitness/Trainings-Schuhe,606.2,674.7,404.5,null,null,633.35,476.85,-998.75,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3524,Outdoorschuhe,null,-1594.4,-1060.65,2794.35,-550.3,102.25,430.2,-3739.2,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3526,Wasserschuhe,null,null,null,762.25,793.4,1489,null,null,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3527,Winterschuhe,412.6,null,null,null,null,null,null,null,null,null,null,null
+631,Sportschuhe,62,Sport + Reisen,3533,Lightweight Schuhe,null,-508.5,311.55,-1267.45,-1322.95,null,418.7,-412.15,null,null,null,null
+632,Fitness,62,Sport + Reisen,1054,Fitnessgeraete,2290.15,null,923.65,209.35,-1763.5,475.8,679.05,5421.5,null,null,null,null
+632,Fitness,62,Sport + Reisen,3509,Messgeraete,null,null,208.6,null,null,251.45,null,null,null,null,null,null
+633,Rollsport,62,Sport + Reisen,3541,Skateboard,null,null,588.55,149.45,-657.2,-148.4,142.7,735.5,null,null,null,null
+633,Rollsport,62,Sport + Reisen,3543,Scooter,null,null,1827.85,null,null,562,519.4,151.2,null,null,null,null
+633,Rollsport,62,Sport + Reisen,3546,Inline-Skate,null,203.3,null,null,null,null,null,null,null,null,null,null
+634,Ballsport,62,Sport + Reisen,3535,Fussball,2118.4,1137.75,3838.2,10001.25,4823.65,767,6842.3,1225.35,null,null,null,null
+634,Ballsport,62,Sport + Reisen,3545,Diverse Sportarten,null,null,null,null,null,540.6,null,null,null,null,null,null
+634,Ballsport,62,Sport + Reisen,3555,Volleyball, Basketball,null,null,-125.05,null,null,-144.05,110.35,null,null,null,null,null
+634,Ballsport,62,Sport + Reisen,3556,Badminton,null,null,null,null,324,689.5,null,null,null,null,null,null
+634,Ballsport,62,Sport + Reisen,3559,Tischtennis,null,null,null,390,null,2600.85,null,null,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,2507,Schlafsaecke,null,583.4,336.4,null,null,null,null,-1805.6,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,2508,Trekkingaccessoires,551.3,-300,-681.15,-2683.2,-550.4,-1330.55,109,-286.15,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,3530,Camping Sport,null,941.05,null,null,null,null,null,null,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,3531,Zelte,null,4141.3,332.65,null,null,null,null,null,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,3548,Rucksaecke,null,-567.3,null,null,null,null,null,643.7,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,3549,Wassersport,null,null,2449.1,1713,null,244.55,null,-108.7,null,null,null,null
+635,Saisonsport/Trekking,62,Sport + Reisen,3553,Outdoor Electronics,null,213.45,261.3,-1255.1,null,null,null,null,null,null,null,null
+660,Reise,62,Sport + Reisen,2500,Maddison Travel,1591.95,376.6,8756.95,null,2172.2,2418.05,null,null,null,null,null,null
+660,Reise,62,Sport + Reisen,2501,Yes or No Travel,null,null,4224,null,null,null,null,null,null,null,null,null
+660,Reise,62,Sport + Reisen,2502,Samsonite Travel,null,null,633.7,null,137.7,10425.6,157.6,127.3,null,null,null,null
+660,Reise,62,Sport + Reisen,2504,City-Bags,null,144.7,226.65,460.65,null,285.9,null,387.35,null,null,null,null
+660,Reise,62,Sport + Reisen,2505,Reiseaccessoires,null,1155.8,null,null,167.45,null,261.85,null,null,null,null,null
+660,Reise,62,Sport + Reisen,2530,Div. Marken Koffer,395,436.2,null,1526.35,313.85,2451.95,null,-356.6,null,null,null,null
+660,Reise,62,Sport + Reisen,2531,Div. Marken Sportgepaeck,null,null,null,null,1826.3,263.35,null,180.7,null,null,null,null
+640,Spiele,64,Spielwaren,1141,Carlit/Ravensburger/Nathan,425.9,null,-1530.15,311.9,149.65,151.8,144.9,-3657.15,null,null,null,null
+640,Spiele,64,Spielwaren,1227,Puzzles/Spiele,-442.2,291.35,511.15,247,null,null,204.2,-1667.6,null,null,null,null
+640,Spiele,64,Spielwaren,1229,Musikinstrumente,null,null,null,null,-149.1,null,null,null,null,null,null,null
+640,Spiele,64,Spielwaren,3492,Sammelkarten,110.85,null,155.3,null,null,124.4,null,209.4,null,null,null,null
+640,Spiele,64,Spielwaren,3493,MB/Parker,-491.15,null,-115,null,null,null,-805.5,-360.1,null,null,null,null
+640,Spiele,64,Spielwaren,3494,Lerncomputer/Edukativ,null,null,201.05,null,null,null,null,null,null,null,null,null
+640,Spiele,64,Spielwaren,3495,Basteln Spielwaren,-461.75,-153.2,null,null,137.8,197,252.5,372.25,null,null,null,null
+640,Spiele,64,Spielwaren,3498,Entdecke die Welt,-2595.1,-116.1,-146.4,null,147.65,-262.3,null,null,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,1146,Mattel,1016.65,4267,566,null,null,null,-4816.4,-3369.3,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,1147,Maedchen-Accessoires,447,220.05,null,null,-122.95,239.9,-521.4,null,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,1225,Puppen/Kleider,699.65,null,208.75,225.1,null,510.85,null,null,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3412,Holzartikel,null,129.3,null,127.9,null,273.9,162.8,128.95,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3440,Spielwaren fuer Kleinkinder,null,256.9,341.7,null,159,null,null,572.9,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3441,Trend Artikel,null,null,-158.9,-640.1,2045.65,-185,-302.4,571.6,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3444,Mobility Preschool,-1031.2,null,107.25,null,null,402,null,null,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3446,Pluesch,-1363.6,230.45,-594.95,497.25,154.45,null,-3190.75,-877,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3456,Fisher-Price,1064.4,null,382.85,217.55,null,552.75,null,-446.9,null,null,null,null
+641,Bebe/Puppen,64,Spielwaren,3457,Girly,-744.4,null,null,347.45,null,null,null,-570.55,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,1148,Playmobil,-9457.5,-3531.5,-3769.85,-3527.8,-4321.4,-2018.4,-3371.7,-17740.95,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,1149,Bausaetze,204.8,null,null,null,370.15,null,126.15,null,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,1151,RC-Autos,-6455.1,-2981.25,145,null,416.15,-1411.75,null,219.5,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,1152,Divers / Figuren,1375.4,-212.05,-1314.55,null,943.7,2847.7,null,410,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,1232,Fahrzeuge,261.8,-1472,2532.2,-945.55,453.4,-245,-1007.7,-5186.65,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,3442,Spielwaren Trends Boys,null,null,-314.6,285.3,-101.75,null,-189.6,-1398.7,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,3455,Mobility,-652.9,-164.3,300,null,121.6,null,-644.4,879.2,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,3459,Movie Theme,null,-5121.25,-115.05,1511.9,null,151.4,258.3,-2957.7,null,null,null,null
+642,Technik Spielwaren,64,Spielwaren,3465,Lego,2253.8,270.8,-2755.8,279.8,-410.5,526.05,1619.05,-158.75,null,null,null,null
+643,Saison Spielwaren,64,Spielwaren,1145,Candy/Party/Div. 8%,281.05,138.15,193.15,-2742.75,-171.05,526.75,224.1,297.75,null,null,null,null
+643,Saison Spielwaren,64,Spielwaren,3468,Fasnacht,-9380.8,-2265,null,-548,697.7,null,null,348,null,null,null,null
+643,Saison Spielwaren,64,Spielwaren,3470,Sommer Artikel,1145.6,-2371.7,-18573.4,470.1,425.4,335.25,4154.1,-2434.1,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,7002,Oel,-1564.1,-31084.65,203.65,-16053.1,-10788.4,-17739.4,152.05,9193.85,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,7003,Essig,null,-186.6,null,126.3,210.2,1700.25,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,7006,Saisonware,null,46999.4,15901.25,-124.45,-424.95,null,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,7031,Food Spezial,null,808.7,null,null,-106.8,null,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8800,Salz/Gewuerze,-134,null,null,null,176.6,null,172.9,466.8,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8810,Essigkonserven/Oliven,139,2969.45,314.1,null,-263.8,-1170.55,-181.2,-460.75,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8811,Nasssaucen,-652.1,1351.55,-710.85,-7184.05,-1016.1,-126.5,-4376,-1267.7,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8812,Trockensaucen,null,1688.95,null,null,-1260.1,634.75,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8813,Dip-/Cocktailsaucen,159.95,300,552.2,-191.4,null,292.6,-120.5,-1082.95,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8815,Senf/Mayonnaise,591.9,3519.35,null,null,null,3076.3,102.1,266.85,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8820,Suppen und Gemuese-Suppen,null,2147.95,-2333.45,null,-906.85,591.7,null,114.8,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8821,Bouillons und Sulze,136.8,2693.8,4363.85,null,null,761.6,null,204.7,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8830,Teigwaren Trocken,-4936.8,3148.25,671.1,-1304.8,-5695.15,-2221.35,-6886.8,-276.45,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8831,Getreide/Griess,null,null,126.6,null,256.45,239.85,-146.35,-88390.5,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8832,Mehl,104.05,374.55,169.75,null,159.7,758.7,null,495.2,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8833,Reis,604.8,736.7,null,288.15,2326.3,null,2984.95,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8840,Zucker/Suessstoff,null,null,-316.6,-348.4,230.3,null,2756,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8850,Kaffee,227.1,14087.8,null,-517.25,-811.05,9412.5,null,-197.45,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8860,Tee/Kraeutertee ohne Ice Tea,-483.7,2734.55,214.1,176.6,767.7,1033.65,142.6,1104.55,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8871,Fruehstueckscerealien/Muesli,344.15,433,null,null,567.3,257.35,null,522.85,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8880,Tafelschokolade,3376.35,8514.55,49371,1340.45,4920.25,4910.2,1691.55,13593.2,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8881,Pralinen,429.1,-18459.3,40352.15,-1745.75,-9101.05,-890.95,-9620.1,29511.55,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8882,Kleinkonfiserie,-232.45,-1485.95,1742.2,315.35,2474.45,-123.05,287.55,-266.25,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8890,Biscuits und Lebkuchen,-2051.4,840.9,11311.7,510.3,5123.95,-709,2372.65,328.95,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8891,Snacks/Chips,376.85,-576.25,-1460.5,-3050.95,1352.15,297.6,334.95,228.65,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8892,Zwieback/Matzenbrot/Knaeckebrot,116.1,126.1,396.7,-216.45,1256.2,null,308.15,177.8,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8900,Kleinschokolade,-178.55,1004.45,2876.35,758.6,-915.2,-627.7,-957,-338.7,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8902,Dessert/Backzutaten,453.4,-108.9,752.75,160.65,839.7,475.55,307.6,562.3,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8910,Trockenfruechte/Nuesse,null,1119.7,null,-802.65,284,2477.95,123.35,-1158.15,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8920,Trockengemuese/70,null,-705,null,null,24519.05,null,null,164.55,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8930,Fruehstuecksgetraenke,-125,247.65,null,null,416.45,2533.2,null,388.35,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8931,Konfitueren/Honig/etc.,null,387.3,-209.25,7034.9,623.85,3550.45,360.35,1451.6,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8940,Tomatenkonserven,469.45,752.85,null,2525.7,null,570.55,299.5,126.75,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8941,Salatkonserven,-100.7,-110.4,2254.55,null,null,121.9,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8942,Gemuesekonserven,null,470.8,1085,818.85,null,175.8,-457,-690.1,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8943,Fischkonserven,null,9283.1,2877.5,null,250.8,186.6,null,-3693.5,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8944,Fleischkonserven,null,154.05,null,null,null,403.5,null,-213.65,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8945,Fruchtkonserven/Kompott,-128.8,null,null,129.25,null,317.6,189,246.65,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8950,Fertiggerichte,null,2819.4,-1392.7,null,-477.9,-2456.25,-244.6,-643.85,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8953,Baby-Food,null,-1051.5,null,null,null,-388.65,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8960,Spezialitaeten/70,-852.45,-1364.5,5294.3,396,1244.65,null,406.45,821.15,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8965,Boutique Food,null,null,null,null,null,-139.95,null,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8980,Diaetetisches Lebensmittel,null,null,null,null,null,null,-142.25,null,null,null,null,null
+700,Kolonialwaren,70,Kolonialwaren/Getraenke,8982,Salatsaucen,null,-444.55,null,null,null,798.9,null,null,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8501,Traubensaft,-446.9,null,null,null,null,181.3,null,-126.6,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8530,Weisswein Inland,2605.5,379.2,-1238.4,-288,169.2,1469.35,null,-5487.9,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8531,Rotwein Inland,1747.3,-1211.7,1153,null,null,3722.4,null,-9212.4,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8532,Rose-Wein,null,114.7,null,-406.8,-139.2,-763.2,-298.8,-3496.05,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8533,Rotwein Ausland,-2105.65,-2202.65,-8245.15,-5357.05,-177.6,874.4,5990.6,-3849.8,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8534,Schaumweine/Champagner,2640,1850.6,-1849.9,423.4,null,-843.25,-306.1,-20324.5,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8535,Suessweine/Vermouths,null,3433.85,-864.35,null,null,-188.55,null,1462.45,null,null,null,null
+701,Weine,70,Kolonialwaren/Getraenke,8537,Weisswein Ausland,276.85,908.4,-2978.7,-1369.9,660.9,-1380.5,-279.7,709.85,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,1078,Windeln a,null,null,189.75,null,null,null,-716.55,null,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8600,Waschmittel,null,4823.55,365.35,-232.05,468.75,-150.85,-154.95,null,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8601,Weichspueler,241.1,754.75,558.25,214.9,459.35,216.65,274.45,685.35,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8602,Reinigungsprodukte,-565.9,-2557.2,214.9,null,627.1,-187.9,-375.05,-752.35,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8604,Geschirrspuelmittel,455,-983.3,-528,null,-1025.6,null,-300.8,-405.5,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8606,Spotty,null,null,null,null,null,null,-171.6,2106.7,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8750,Haushaltpapier,null,879.4,null,null,-168.95,null,null,null,null,null,null,null
+702,Near-Food,70,Kolonialwaren/Getraenke,8752,Toilettenpapier,1642.2,-552.75,null,209.75,-643.5,null,null,-168.75,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,7004,Alkoholfreies Bier,null,108.3,-670.1,null,null,675.4,null,-121.3,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,7012,Mineralwasser mit Kohlens.,7037.5,16608.9,14180.45,null,-1019,5157.45,900.5,2978.05,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,7013,Mineralwasser ohne Kohlens.,309,4020.35,2538.35,-186.65,-1372.85,-409.3,302.05,2464.95,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8500,Frucht-/Gemuesesaft,581.6,10852.7,1335.75,-131.05,233.15,null,133.1,9320.6,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8503,Ice Tea,1257.5,3873.35,471.75,null,230,4682.1,null,3706.3,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8510,Suessgetraenke,22405.7,2716.55,2345.5,5127.4,245.8,2478.7,null,6765,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8511,Sirup,1152.6,null,null,-320.55,921.6,-718.4,171.4,-1980.6,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8512,Sport-/Fitnessgetraenke,1210.15,2452.35,-411.1,null,null,-310.25,-129.1,null,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8514,Apfelsaft ohne Alkohol,-8977.9,-434.55,-202.9,-420.4,-135.35,-884.35,-393.85,-15056.45,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8524,Inlaendisches Bier mit Alkohol,-191.25,234.7,1086.65,-171.15,612.7,7855,-280.1,-304.95,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8525,Auslaendisches Bier m. Alkohol,439.6,-276.45,-3179.25,248.95,null,4809,456.6,2891.7,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8540,Bitter/Anises,-117.8,-454.35,-2598.5,null,5049.6,-1174.1,null,null,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8550,Whiskies,533.1,-740.4,-938.25,null,-7334.6,5591.9,149.85,null,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8551,Dunkle Spirituosen,null,-28978.2,-127.15,null,628.35,535.2,null,null,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8552,Weisse Spirituosen,-2499.8,16125.75,-648.45,null,1825.75,4881.3,214.15,-414.85,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8554,Likoer,null,604.65,-236,null,2170.85,715.6,null,342.75,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8555,Trend-/Mixgetraenke,-266.3,null,391.3,null,null,null,null,null,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8556,Rum,-5351.3,-112.85,-744.25,null,null,285.45,null,null,null,null,null,null
+703,Alkoholfreie Getraenke/Bier/Spirituosen,70,Kolonialwaren/Getraenke,8557,Grappa,460.8,null,null,null,1010.15,133.7,null,null,null,null,null,null
+709,Spezialkategorien Kolo/Getraenke,70,Kolonialwaren/Getraenke,7009,Offenverkauf Kolo / Getraenke a,null,null,-7018.75,null,null,null,null,null,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7102,Rahm,-447.35,-498.95,-124.7,-5199.9,-1164.55,-2177.05,-3680.95,-482.95,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7103,Milch,1514.35,3779.1,1802.65,2518.25,-372.4,-3017.35,-2444.6,-148.75,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7110,Butter,876.75,355.9,602.2,2600.8,56.35,null,-267.85,-126.5,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7113,Margarine,286.35,530.3,1001.55,108.1,-831.45,-581.8,578.4,253.65,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7120,Joghurt,-72.5,-1906.4,253.45,2901.25,6897.75,3462.3,-4538.55,-357.15,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7121,Desserts,-674.7,135.05,1764.1,1549.35,2540.55,1783.5,-164.1,null,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7122,Getraenke auf Milchbasis,-3332.6,-2453.5,1032.65,-3598.15,-1857.15,-1974.15,-1649.5,-1031.55,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7123,Quark,null,null,237.1,-727.5,912.9,1790.45,439.35,957.1,null,null,null,null
+710,Milchprodukte SB,71,Frischprodukte SB,7130,Eier,-312.6,146.85,313.95,1513.75,334.2,-141,174.25,109.65,null,null,null,null
+711,Charcuterie SB,71,Frischprodukte SB,7045,Gefluegel Charcuterie,null,null,null,null,-237.45,null,null,-706.6,null,null,null,null
+711,Charcuterie SB,71,Frischprodukte SB,7170,Charcuterie gekocht,null,null,199.3,null,153.6,null,-216.95,null,null,null,null,null
+711,Charcuterie SB,71,Frischprodukte SB,7171,Charcuterie getrocknet,null,129,1083.9,482.75,500.4,-125.2,-536.2,-122.3,null,null,null,null
+712,Kaese SB,71,Frischprodukte SB,7139,Reibkaese,995.55,1143.75,1707.95,5158.7,3311.05,6151.75,786.45,null,null,null,null,null
+712,Kaese SB,71,Frischprodukte SB,7140,Schnittkaese,2037.9,2357.3,-5741.15,5423.85,3267.05,11445.85,1311.75,446.9,null,null,null,null
+712,Kaese SB,71,Frischprodukte SB,7142,Frischkaese,-233.15,897.9,1753.6,-109.7,-134.9,684,null,596.55,null,null,null,null
+712,Kaese SB,71,Frischprodukte SB,7145,Schmelzkaese Vorverpackt,594.85,null,-245.55,null,null,null,122.35,null,null,null,null,null
+712,Kaese SB,71,Frischprodukte SB,7148,Weichkaese,null,null,null,null,-580.25,-572.5,-134.85,-544.15,null,null,null,null
+712,Kaese SB,71,Frischprodukte SB,7149,Fondue,null,null,null,null,-103.55,-810.9,null,null,null,null,null,null
+713,Convenience,71,Frischprodukte SB,7153,Traiteur Frisch SB,144.75,null,1030.85,1260.05,1958.5,-796.95,629.15,-3647.7,null,null,null,null
+713,Convenience,71,Frischprodukte SB,7156,Smoothie / Saft,3741.7,3459.05,203.65,-161.95,-405.9,-2832.45,105.5,-4107.75,null,null,null,null
+715,Industrielle Boulangerie,71,Frischprodukte SB,7162,Teig/Hefe,560.05,3430,1477.1,235.5,714.25,1152.65,1050.7,957.65,null,null,null,null
+720,Kaese,72,Wurstwaren B / Kaese B,7205,Halbhartkaese,null,null,null,null,-151.3,null,-147.65,null,null,null,null,null
+721,Charcuterie,72,Wurstwaren B / Kaese B,7216,Schinken gekocht,null,null,null,null,null,null,null,128.85,null,null,null,null
+730,Brot/Patisserie,73,Brot / Patisserie,7381,Rohmaterial 73,null,null,null,null,317.3,529.2,-416.2,4634.95,null,null,null,null
+740,Fruechte/Gemuese,74,Fruechte / Gemuese,7401,Frischfruechte,278.2,3904.8,-448.15,-189.75,-1908.25,-1685.85,562.2,-2476.65,null,null,null,null
+740,Fruechte/Gemuese,74,Fruechte / Gemuese,7403,Exotische Fruechte,-3315.35,-1083.35,-249.95,802.45,-480.35,378.1,1254.75,null,null,null,null,null
+740,Fruechte/Gemuese,74,Fruechte / Gemuese,7405,Zitrusfruechte,397.65,null,-667.15,null,null,null,-116,677.05,null,null,null,null
+740,Fruechte/Gemuese,74,Fruechte / Gemuese,7410,Salate,null,null,-369.45,-573.95,-428.4,-235.65,null,135.2,null,null,null,null
+740,Fruechte/Gemuese,74,Fruechte / Gemuese,7411,Frisches Gemuese,-211.25,-143.6,-654.6,-1936.9,57.6,-1440.15,-315.15,-121.6,null,null,null,null
+740,Fruechte/Gemuese,74,Fruechte / Gemuese,7413,Kraeuter aromatisch,null,null,null,null,null,null,-379.7,null,null,null,null,null
+490,Oekonomat,90,Zentrale Dienste Logistik,4900,Packmaterial,1223.5,-386.95,327.3,null,1798.8,333.05,451.8,1332.75,null,null,null,null
+490,Oekonomat,90,Zentrale Dienste Logistik,4910,Administratives Material,169.65,-2723,3191.5,2262.95,-1700.85,null,1348.8,1669.2,null,null,null,null
+490,Oekonomat,90,Zentrale Dienste Logistik,4930,Verbrauchsmaterial Food,null,140.1,-392.45,-847.3,null,null,-1161.75,-229.2,null,null,null,null
+492,Etikettierung,90,Zentrale Dienste Logistik,4920,Etikettierung,111.6,null,null,null,114.8,null,null,938.2,null,null,null,null
+972,Dekoration,91,Zentrale Dienste Merchandising,9720,Dekoration,-714.85,-711.2,null,null,376.95,null,null,null,null,null,null,null

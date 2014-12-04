@@ -1,0 +1,10 @@
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\bin\Debug\DrawHeaderCheckBox.exe.config
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\bin\Debug\DrawHeaderCheckBox.exe
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\bin\Debug\DrawHeaderCheckBox.pdb
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.csprojResolveAssemblyReference.cache
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.Form1.resources
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.Properties.Resources.resources
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.csproj.GenerateResource.Cache
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.exe.licenses
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.exe
+c:\users\ntg\documents\visual studio 2013\Projects\DrawHeaderCheckBox\DrawHeaderCheckBox\obj\Debug\DrawHeaderCheckBox.pdb

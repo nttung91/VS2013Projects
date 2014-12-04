@@ -1,0 +1,11 @@
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\bin\Debug\VRR7780_Prototype.exe.config
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\bin\Debug\VRR7780_Prototype.exe
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\bin\Debug\VRR7780_Prototype.pdb
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.csprojResolveAssemblyReference.cache
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.Form1.resources
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.Properties.Resources.resources
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.csproj.GenerateResource.Cache
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.exe
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.pdb
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\bin\Debug\data.txt
+c:\users\ntg\documents\visual studio 2013\Projects\VRR7780_Prototype\VRR7780_Prototype\obj\Debug\VRR7780_Prototype.exe.licenses
