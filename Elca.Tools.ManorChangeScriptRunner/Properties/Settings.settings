@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Elca.Tools.ManorChangeScriptRunner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OracleHome" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ScriptsFromManor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Change-Scripts\ToExecuteInVN</Value>
+    </Setting>
+    <Setting Name="SysUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sys</Value>
+    </Setting>
+    <Setting Name="MimSpuUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mim_spu</Value>
+    </Setting>
+    <Setting Name="MimSpuPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mim_spu</Value>
+    </Setting>
+    <Setting Name="SysPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DBAora2014</Value>
+    </Setting>
+    <Setting Name="SqlPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Change-Scripts\RunScript</Value>
+    </Setting>
+    <Setting Name="ExecutedScripts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Change-Scripts\ExecutedByCH</Value>
+    </Setting>
+    <Setting Name="ScriptsForVN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Change-Scripts\ToExecuteInVN</Value>
+    </Setting>
+    <Setting Name="TNSProdu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VKOPIES</Value>
+    </Setting>
+    <Setting Name="TNSFis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VFISTES</Value>
+    </Setting>
+    <Setting Name="TNSHaus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VHAUTES</Value>
+    </Setting>
+    <Setting Name="TNSMai" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VMAITES</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

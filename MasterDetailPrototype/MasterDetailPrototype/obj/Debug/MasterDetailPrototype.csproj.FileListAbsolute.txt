@@ -1,0 +1,10 @@
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\bin\Debug\MasterDetailPrototype.exe.config
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\bin\Debug\MasterDetailPrototype.exe
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\bin\Debug\MasterDetailPrototype.pdb
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.csprojResolveAssemblyReference.cache
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.Form1.resources
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.Properties.Resources.resources
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.csproj.GenerateResource.Cache
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.exe.licenses
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.exe
+c:\users\ntg\documents\visual studio 2013\Projects\MasterDetailPrototype\MasterDetailPrototype\obj\Debug\MasterDetailPrototype.pdb

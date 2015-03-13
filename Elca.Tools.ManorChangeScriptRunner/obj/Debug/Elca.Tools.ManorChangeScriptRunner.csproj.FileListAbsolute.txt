@@ -1,0 +1,12 @@
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\bin\Debug\Elca.Tools.ManorChangeScriptRunner.exe.config
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\bin\Debug\DropSpu.txt
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\bin\Debug\Elca.Tools.ManorChangeScriptRunner.exe
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\bin\Debug\Elca.Tools.ManorChangeScriptRunner.pdb
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.FrmMain.resources
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.Properties.Messages.resources
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.csproj.GenerateResource.Cache
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.exe.licenses
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.exe
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.pdb
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.csprojResolveAssemblyReference.cache
+C:\Users\ntg\Documents\Visual Studio 2013\Projects\Elca.Tools.ManorChangeScriptRunner\obj\Debug\Elca.Tools.ManorChangeScriptRunner.FrmRunScriptVN.resources

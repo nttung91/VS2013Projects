@@ -1,0 +1,9 @@
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\bin\Debug\GenerateScripts.exe.config
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\bin\Debug\GenerateScripts.exe
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\bin\Debug\GenerateScripts.pdb
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\obj\Debug\GenerateScripts.csprojResolveAssemblyReference.cache
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\obj\Debug\GenerateScripts.Form1.resources
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\obj\Debug\GenerateScripts.Properties.Resources.resources
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\obj\Debug\GenerateScripts.csproj.GenerateResource.Cache
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\obj\Debug\GenerateScripts.exe
+c:\users\ntg\documents\visual studio 2013\Projects\GenerateScripts\GenerateScripts\obj\Debug\GenerateScripts.pdb
